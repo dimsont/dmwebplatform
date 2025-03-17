@@ -1,0 +1,362 @@
+ï
+IDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.NotificationDto()d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( "0*z
+0^
+\
+
+%0void"object.Object()*=;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"
+implicit returnB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoXð
+GDmWebPlatform.Notifications.Domain.Entities.Notification.Notification()e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ("0*{
+0_
+]
+
+%0void"object.Object()*><:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"
+implicit returnB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationX¡
+>DmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Id.getd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ("0*¶
+0 (¯
+¬
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs (
+%retint"__id*°
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs (H*F9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"	
+Idint"u
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs (
+
+%retintB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoXÑ
+>DmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Id.setd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( "0*Ö
+0! (!É
+Æ
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( F9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"	
+Idint"__id*
+
+valueint"{
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( 
+implicit return:
+valueintB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoX¨
+?DmWebPlatform.Notifications.Domain.Entities.Notification.Id.gete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ("0*º
+0 (²
+¯
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs (
+%retint"__id*²
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs (I*G:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"	
+Idint"v
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs (
+
+%retintB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationX×
+?DmWebPlatform.Notifications.Domain.Entities.Notification.Id.sete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ( "0*Ù
+0! (!Ë
+È
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ( G:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"	
+Idint"__id*
+
+valueint"|
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ( 
+implicit return:
+valueintB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationX²
+DDmWebPlatform.Notifications.Domain.Entities.Notification.EventId.gete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ( "0*¿
+0! (!·
+´
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ( 
+%retint"__id*·
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ( N*L:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"
+EventIdint"v
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs ( 
+
+%retintB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationX«
+CDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.EventId.getd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( "0*»
+0! (!´
+±
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( 
+%retint"__id*µ
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( M*K9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"
+EventIdint"u
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs ( 
+
+%retintB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoXá
+DDmWebPlatform.Notifications.Domain.Entities.Notification.EventId.sete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs" (%"0*Þ
+0& (&Ð
+Í
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs" (%L:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"
+EventIdint"__id*
+
+valueint"|
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs" (%
+implicit return:
+valueintB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationXÛ
+CDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.EventId.setd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs" (%"0*Û
+0& (&Î
+Ë
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs" (%K9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"
+EventIdint"__id*
+
+valueint"{
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs" (%
+implicit return:
+valueintB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoXµ
+BDmWebPlatform.Notifications.Domain.Entities.Notification.Email.gete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs (!"0*Æ
+0" ("»
+¸
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs (!
+%retstring"__id*¸
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs (!O*M:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"
+Emailstring"y
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs (!
+
+%retstringB<:
+8DmWebPlatform.Notifications.Domain.Entities.Notificationæ
+BDmWebPlatform.Notifications.Domain.Entities.Notification.Email.sete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs# (&"0*â
+0' ('Ô
+Ñ
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs# (&M:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"
+Emailstring"__id*
+
+valuestring"|
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs# (&
+implicit return:
+valuestringB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationX®
+ADmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Email.getd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs (!"0*Â
+0" ("¸
+µ
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs (!
+%retstring"__id*¶
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs (!N*L9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"
+Emailstring"x
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs (!
+
+%retstringB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoç
+MDmWebPlatform.Notifications.Domain.Entities.Notification.NotificationTime.gete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs+ (."0*í
+0/ (/Ø
+Õ
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs+ (.
+%retSystem.DateTime"__id*Ì
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs+ (.c*a:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"#
+NotificationTimeSystem.DateTime"‚
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs+ (.
+
+%retSystem.DateTimeB<:
+8DmWebPlatform.Notifications.Domain.Entities.Notification—
+MDmWebPlatform.Notifications.Domain.Entities.Notification.NotificationTime.sete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs0 (3"0*ÿ
+04 (4ñ
+î
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs0 (3a:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"#
+NotificationTimeSystem.DateTime"__id*
+
+valueSystem.DateTime"|
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs0 (3
+implicit return:
+valueSystem.DateTimeB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationXà
+ADmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Email.setd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs# (&"0*ß
+0' ('Ò
+Ï
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs# (&L9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"
+Emailstring"__id*
+
+valuestring"{
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs# (&
+implicit return:
+valuestringB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoX³
+CDmWebPlatform.Notifications.Domain.Entities.Notification.IsSent.gete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs	 	( "0*Á
+0	! 	(!¸
+µ
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs	 	( 
+%retbool"__id*·
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs	 	( N*L:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"
+IsSentbool"w
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs	 	( 
+
+%retboolB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationXâ
+CDmWebPlatform.Notifications.Domain.Entities.Notification.IsSent.sete
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs	" 	(%"0*ß
+0	& 	(&Ñ
+Î
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs	" 	(%L:
+8DmWebPlatform.Notifications.Domain.Entities.Notification"
+IsSentbool"__id*
+
+valuebool"|
+e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\Entities\Notification.cs	" 	(%
+implicit return:
+valueboolB<:
+8DmWebPlatform.Notifications.Domain.Entities.NotificationXà
+LDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.NotificationTime.getd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs+ (."0*é
+0/ (/Õ
+Ò
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs+ (.
+%retSystem.DateTime"__id*Ê
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs+ (.b*`9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"#
+NotificationTimeSystem.DateTime"
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs+ (.
+
+%retSystem.DateTimeB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto‘
+LDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.NotificationTime.setd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs0 (3"0*ü
+04 (4ï
+ì
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs0 (3`9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"#
+NotificationTimeSystem.DateTime"__id*
+
+valueSystem.DateTime"{
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs0 (3
+implicit return:
+valueSystem.DateTimeB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoX¬
+BDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.IsSent.getd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs	 	( "0*½
+0	! 	(!µ
+²
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs	 	( 
+%retbool"__id*µ
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs	 	( M*K9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"
+IsSentbool"v
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs	 	( 
+
+%retboolB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoXÜ
+BDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.IsSent.setd
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs	" 	(%"0*Ü
+0	& 	(&Ï
+Ì
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs	" 	(%K9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDto"
+IsSentbool"__id*
+
+valuebool"{
+d
+ZC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\DTOs\NotificationDto.cs	" 	(%
+implicit return:
+valueboolB;9
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoXÂ
+BDmWebPlatform.Notifications.Domain.MappingProfile.MappingProfile()^
+TC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Domain\MappingProfile.cs
+ 
+("0*
+0
+ 
+(*
+1*›
+1
+ (DZ
+X
+
+ (	
+
+%0void"AutoMapper.Profile.Profile()*"
+
+ (	
+AutoMapper.ProfileÃ
+À
+ (6:
+%14AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*A
+ (453
+1DmWebPlatform.Notifications.Domain.MappingProfileäá
+ (C:
+%24AutoMapper.IMappingExpression<TSource, TDestination>"AAutoMapper.IMappingExpression<TSource, TDestination>.ReverseMap()*H
+ (6<
+:
+%14AutoMapper.IMappingExpression<TSource, TDestination>2ReverseMap()*
+2*.
+2	 (	"
+ (	
+implicit returnB53
+1DmWebPlatform.Notifications.Domain.MappingProfileX

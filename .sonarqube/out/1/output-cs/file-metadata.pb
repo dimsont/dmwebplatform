@@ -1,0 +1,10 @@
+u
+jC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\obj\Debug\net8.0\DmWebPlatform.Domain.AssemblyInfo.csutf-8
+tC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8w
+lC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\obj\Debug\net8.0\DmWebPlatform.Domain.GlobalUsings.g.csutf-8O
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\MappingProfile.csutf-8O
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\Entities\Event.csutf-8W
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\Entities\AuditLogEntry.csutf-8Y
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\Entities\ApplicationUser.csutf-8N
+EC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\DTOs\EventDto.csutf-8Q
+HC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\DTOs\AuditLogDto.csutf-8

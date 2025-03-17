@@ -1,0 +1,16 @@
+ä
+"DmWebPlatform.Service.TokenServiceobject>DmWebPlatform.Infrastructure.Interfaces.Services.ITokenServiceÓ
+•TokenService(Microsoft.AspNet.Identity.UserManager<DmWebPlatform.Domain.Entities.ApplicationUser>, Microsoft.Extensions.Configuration.IConfiguration)¸DmWebPlatform.Service.TokenService.TokenService(Microsoft.AspNet.Identity.UserManager<DmWebPlatform.Domain.Entities.ApplicationUser>, Microsoft.Extensions.Configuration.IConfiguration)Ÿ
+<GenerateToken(DmWebPlatform.Domain.Entities.ApplicationUser)_DmWebPlatform.Service.TokenService.GenerateToken(DmWebPlatform.Domain.Entities.ApplicationUser)Î
+EventServiceobject>DmWebPlatform.Infrastructure.Interfaces.Services.IEventServiceó
+qEventService(DmWebPlatform.Infrastructure.Interfaces.IUnitOfWork, AutoMapper.IMapper, System.Net.Http.HttpClient)~EventService.EventService(DmWebPlatform.Infrastructure.Interfaces.IUnitOfWork, AutoMapper.IMapper, System.Net.Http.HttpClient)!
+GetAll()EventService.GetAll()'
+GetOne(int)EventService.GetOne(int)_
+'Add(DmWebPlatform.Domain.DTOs.EventDto)4EventService.Add(DmWebPlatform.Domain.DTOs.EventDto)e
+*Update(DmWebPlatform.Domain.DTOs.EventDto)7EventService.Update(DmWebPlatform.Domain.DTOs.EventDto)'
+Delete(int)EventService.Delete(int)C
+SearchEventsAsync(string)&EventService.SearchEventsAsync(string)ï
+%DmWebPlatform.Service.AuditLogServiceobjectADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogServiceç
+^AuditLogService(MongoDB.Driver.IMongoDatabase, Microsoft.AspNetCore.Http.IHttpContextAccessor)„DmWebPlatform.Service.AuditLogService.AuditLogService(MongoDB.Driver.IMongoDatabase, Microsoft.AspNetCore.Http.IHttpContextAccessor)¾
+JLogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)pDmWebPlatform.Service.AuditLogService.LogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)P
+GetAuditLogsAsync()9DmWebPlatform.Service.AuditLogService.GetAuditLogsAsync()

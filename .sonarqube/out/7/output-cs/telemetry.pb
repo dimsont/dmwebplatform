@@ -1,0 +1,1 @@
+„RnC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Service\DmWebPlatform.Notifications.Service.csproj¢net8.0òCSharp12

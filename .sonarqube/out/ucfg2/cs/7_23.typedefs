@@ -1,0 +1,8 @@
+À
+NotificationServiceobjectSDmWebPlatform.Notifications.Infrastructure.Interfaces.Services.INotificationServiceì
+jNotificationService(DmWebPlatform.Notifications.Infrastructure.Interfaces.IUnitOfWork, AutoMapper.IMapper)~NotificationService.NotificationService(DmWebPlatform.Notifications.Infrastructure.Interfaces.IUnitOfWork, AutoMapper.IMapper)¨
+HAddSubscription(DmWebPlatform.Notifications.Domain.DTOs.NotificationDto)\NotificationService.AddSubscription(DmWebPlatform.Notifications.Domain.DTOs.NotificationDto)B
+GetNotifications(int))NotificationService.GetNotifications(int)F
+RemoveSubscription(int)+NotificationService.RemoveSubscription(int)\
+"GetNotificationsForEventAsync(int)6NotificationService.GetNotificationsForEventAsync(int)H
+SendNotificationsAsync(),NotificationService.SendNotificationsAsync()

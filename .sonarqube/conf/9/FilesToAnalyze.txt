@@ -1,0 +1,14 @@
+﻿C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\Controllers\NotificationController.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\Extensions\ServiceCollectionExtensions.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\Models\AppSettings.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\Program.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\obj\Debug\net8.0\DmWebPlatform.Notifications.API.GlobalUsings.g.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\obj\Debug\net8.0\DmWebPlatform.Notifications.API.AssemblyInfo.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\obj\Debug\net8.0\DmWebPlatform.Notifications.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\appsettings.Development.json
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\appsettings.json
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\DmWebPlatform.Notifications.API.http
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\Dockerfile
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\Properties\launchSettings.json
+C:\Users\Dima\dmwebplatform_git\.dockerignore

@@ -1,0 +1,17 @@
+‚
+wC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\obj\Debug\net8.0\DmWebPlatform.API.MvcApplicationPartsAssemblyInfo.csutf-8o
+dC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\obj\Debug\net8.0\DmWebPlatform.API.AssemblyInfo.csutf-8|
+qC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8q
+fC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\obj\Debug\net8.0\DmWebPlatform.API.GlobalUsings.g.csutf-8F
+=C:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\SeedData.csutf-8E
+<C:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Program.csutf-8R
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.csutf-8W
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.csutf-8R
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.csutf-8O
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.csutf-8P
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.csutf-8`
+WC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Middleware\ErrorHandlingMiddleware.csutf-8d
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Extensions\ServiceCollectionExtensions.csutf-8X
+OC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\UserController.csutf-8Y
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.csutf-8]
+TC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\AuditLogsController.csutf-8

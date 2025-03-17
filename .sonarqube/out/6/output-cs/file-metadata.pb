@@ -1,0 +1,12 @@
+…
+zC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\obj\Debug\net8.0\DmWebPlatform.Infrastructure.AssemblyInfo.csutf-8‡
+|C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8‡
+|C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\obj\Debug\net8.0\DmWebPlatform.Infrastructure.GlobalUsings.g.csutf-8T
+KC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\UnityOfWork.csutf-8S
+JC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Repository.csutf-8m
+dC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\Services\IAuditLogService.csutf-8j
+aC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\Services\ITokenService.csutf-8j
+aC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\Services\IEventService.csutf-8`
+WC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\IUnityOfWork.csutf-8_
+VC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\IRepository.csutf-8^
+UC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Enums\AuditActionType.csutf-8

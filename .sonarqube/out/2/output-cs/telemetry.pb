@@ -1,0 +1,1 @@
+ŠRtC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\DmWebPlatform.Notifications.DataAccess.csproj¢net8.0òCSharp12

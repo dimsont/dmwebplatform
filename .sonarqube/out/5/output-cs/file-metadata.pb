@@ -1,0 +1,9 @@
+¢
+–C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\obj\Debug\net8.0\DmWebPlatform.Notifications.Infrastructure.AssemblyInfo.csutf-8–
+ŠC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8¤
+˜C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\obj\Debug\net8.0\DmWebPlatform.Notifications.Infrastructure.GlobalUsings.g.csutf-8b
+YC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\UnityOfWork.csutf-8a
+XC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Repository.csutf-8
+vC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Interfaces\Services\INotificationService.csutf-8n
+eC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Interfaces\IUnityOfWork.csutf-8m
+dC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Interfaces\IRepository.csutf-8

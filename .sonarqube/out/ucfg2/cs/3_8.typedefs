@@ -1,0 +1,24 @@
+Ï
+4DmWebPlatform.DataAccess.ApplicationDbContextFactoryobjectJMicrosoft.EntityFrameworkCore.Design.IDesignTimeDbContextFactory<TContext>k
+CreateDbContext(string[])NDmWebPlatform.DataAccess.ApplicationDbContextFactory.CreateDbContext(string[])s
+ApplicationDbContextFactory()RDmWebPlatform.DataAccess.ApplicationDbContextFactory.ApplicationDbContextFactory()◊
+EDmWebPlatform.DataAccess.Migrations.ApplicationDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobject∂
+6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)|DmWebPlatform.DataAccess.Migrations.ApplicationDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)ê
+#ApplicationDbContextModelSnapshot()iDmWebPlatform.DataAccess.Migrations.ApplicationDbContextModelSnapshot.ApplicationDbContextModelSnapshot()‡
+1DmWebPlatform.DataAccess.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject∞
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oDmWebPlatform.DataAccess.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¥
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)qDmWebPlatform.DataAccess.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)Æ
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)nDmWebPlatform.DataAccess.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)T
+InitialCreate()ADmWebPlatform.DataAccess.Migrations.InitialCreate.InitialCreate()µ
+"DmWebPlatform.DataAccess.DbFactoryobjectSystem.IDisposable±
+EDbFactory(System.Func<DmWebPlatform.DataAccess.ApplicationDbContext>)hDmWebPlatform.DataAccess.DbFactory.DbFactory(System.Func<DmWebPlatform.DataAccess.ApplicationDbContext>)9
+	Dispose(),DmWebPlatform.DataAccess.DbFactory.Dispose()A
+DbContext.get0DmWebPlatform.DataAccess.DbFactory.DbContext.getA
+DbContext.set0DmWebPlatform.DataAccess.DbFactory.DbContext.set∑
+-DmWebPlatform.DataAccess.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobjectô
+sApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<DmWebPlatform.DataAccess.ApplicationDbContext>)°DmWebPlatform.DataAccess.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<DmWebPlatform.DataAccess.ApplicationDbContext>)®
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)iDmWebPlatform.DataAccess.ApplicationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)F
+
+Events.get8DmWebPlatform.DataAccess.ApplicationDbContext.Events.getF
+
+Events.set8DmWebPlatform.DataAccess.ApplicationDbContext.Events.set

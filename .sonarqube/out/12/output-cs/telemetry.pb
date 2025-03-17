@@ -1,0 +1,1 @@
+dRNC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Tests\DmWebPlatform.Tests.csproj¢net8.0òCSharp12

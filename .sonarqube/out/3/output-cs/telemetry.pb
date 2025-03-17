@@ -1,0 +1,1 @@
+nRXC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\DmWebPlatform.DataAccess.csproj¢net8.0òCSharp12

@@ -1,0 +1,5 @@
+﻿C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Interfaces\IRepository.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Interfaces\IUnityOfWork.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Interfaces\Services\INotificationService.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\Repository.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\UnityOfWork.cs

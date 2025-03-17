@@ -1,0 +1,6 @@
+﻿C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\DTOs\AuditLogDto.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\DTOs\EventDto.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\Entities\ApplicationUser.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\Entities\AuditLogEntry.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\Entities\Event.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\MappingProfile.cs

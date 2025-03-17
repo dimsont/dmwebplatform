@@ -1,0 +1,15 @@
+˜
+QC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Tests\Services\EventServiceTests.csDmWebPlatform.TestsO
+.DmWebPlatform.Tests.Services.EventServiceTestsGetAll_ReturnsListOfEventDtosX
+.DmWebPlatform.Tests.Services.EventServiceTests&GetOne_ReturnsEventDto_WhenEventExistsQ
+.DmWebPlatform.Tests.Services.EventServiceTestsAdd_InsertsEventAndSavesChangesW
+.DmWebPlatform.Tests.Services.EventServiceTests%Update_UpdatesEventAndCallsHttpClientW
+.DmWebPlatform.Tests.Services.EventServiceTests%Delete_DeletesEventAndCallsHttpClient¼
+WC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Tests\Controllers\EventControllerTests.csDmWebPlatform.Testsf
+5DmWebPlatform.Tests.Controllers.EventsControllerTests-GetAllEvents_ReturnsOkResult_WithListOfEvents_
+5DmWebPlatform.Tests.Controllers.EventsControllerTests&GetEventById_ReturnsOkResult_WithEventk
+5DmWebPlatform.Tests.Controllers.EventsControllerTests2GetEventById_ReturnsNotFound_WhenEventDoesNotExist[
+5DmWebPlatform.Tests.Controllers.EventsControllerTests"CreateEvent_ReturnsCreatedAtActionh
+5DmWebPlatform.Tests.Controllers.EventsControllerTests/UpdateEvent_ReturnsNoContent_WhenEventIsUpdatede
+5DmWebPlatform.Tests.Controllers.EventsControllerTests,UpdateEvent_ReturnsBadRequest_WhenIdMismatchh
+5DmWebPlatform.Tests.Controllers.EventsControllerTests/DeleteEvent_ReturnsNoContent_WhenEventIsDeleted

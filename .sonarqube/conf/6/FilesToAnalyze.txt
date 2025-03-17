@@ -1,0 +1,8 @@
+﻿C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Enums\AuditActionType.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\IRepository.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\IUnityOfWork.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\Services\IAuditLogService.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\Services\IEventService.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Interfaces\Services\ITokenService.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\Repository.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\UnityOfWork.cs

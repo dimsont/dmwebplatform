@@ -1,0 +1,7 @@
+﻿C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\DbFactory.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\Migrations\20240904084941_InitialCreate.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\Migrations\20240904084941_InitialCreate.Designer.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\Migrations\NotificationDbContextModelSnapshot.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\NotificationDbContext.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\NotificationDbContextFactory.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\codefirst.txt

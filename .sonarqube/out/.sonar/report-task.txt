@@ -1,0 +1,7 @@
+organization=dimsont
+projectKey=dimsont_dmwebplatform
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.60817
+dashboardUrl=https://sonarcloud.io/dashboard?id=dimsont_dmwebplatform
+ceTaskId=AZWkhPSftScwsT94zAGr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZWkhPSftScwsT94zAGr

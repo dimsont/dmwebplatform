@@ -1,0 +1,1 @@
+fRPC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Domain\DmWebPlatform.Domain.csproj¢net8.0òCSharp12

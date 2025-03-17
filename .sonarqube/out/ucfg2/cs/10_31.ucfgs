@@ -1,0 +1,3069 @@
+ö
+0DmWebPlatform.API.Models.LoginModel.LoginModel()P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs ("0*f
+0J
+H
+
+%0void"object.Object()*)'%
+#DmWebPlatform.API.Models.LoginModel"
+implicit returnB'%
+#DmWebPlatform.API.Models.LoginModelXü
+2DmWebPlatform.API.Models.AppSettings.AppSettings()Q
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs ("0*g
+0K
+I
+
+%0void"object.Object()**(&
+$DmWebPlatform.API.Models.AppSettings"
+implicit returnB(&
+$DmWebPlatform.API.Models.AppSettingsX©
+6DmWebPlatform.API.Models.RegisterModel.RegisterModel()S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs ("0*i
+0M
+K
+
+%0void"object.Object()*,*(
+&DmWebPlatform.API.Models.RegisterModel"
+implicit returnB*(
+&DmWebPlatform.API.Models.RegisterModelX©
+6DmWebPlatform.API.Models.UserRoleModel.UserRoleModel()S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs ("0*i
+0M
+K
+
+%0void"object.Object()*,*(
+&DmWebPlatform.API.Models.UserRoleModel"
+implicit returnB*(
+&DmWebPlatform.API.Models.UserRoleModelXÙ
+%DmWebPlatform.API.SeedData.SeedData()G
+=C:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\SeedData.cs ("0*]
+0A
+?
+
+%0void"object.Object()* 
+DmWebPlatform.API.SeedData"
+implicit returnB
+DmWebPlatform.API.SeedDataX¬
+@DmWebPlatform.API.Models.TokenResponseModel.TokenResponseModel()X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs (#"0*n
+0R
+P
+
+%0void"object.Object()*1/-
++DmWebPlatform.API.Models.TokenResponseModel"
+implicit returnB/-
++DmWebPlatform.API.Models.TokenResponseModelXÜ
+:DmWebPlatform.API.Models.AppSettings.DefaultConnection.setQ
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs> (A"0*≤
+0B (B∏
+µ
+Q
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs> (AE&
+$DmWebPlatform.API.Models.AppSettings"
+DefaultConnectionstring"__id*
+
+valuestring"h
+Q
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs> (A
+implicit return:
+valuestringB("&
+$DmWebPlatform.API.Models.AppSettingsX¡
+:DmWebPlatform.API.Models.AppSettings.DefaultConnection.getQ
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs1 (4"0*Ç
+05 (5ã
+à
+Q
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs1 (4
+%retstring"__id*ú
+Q
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs1 (4G*E&
+$DmWebPlatform.API.Models.AppSettings"
+DefaultConnectionstring"e
+Q
+GC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\AppSettings.cs1 (4
+
+%retstringB("&
+$DmWebPlatform.API.Models.AppSettingsπ
+1DmWebPlatform.API.Models.UserRoleModel.UserId.getS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs (""0*ˇ
+0# (#Ü
+É
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs ("
+%retstring"__id*ï
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs (">*<(
+&DmWebPlatform.API.Models.UserRoleModel"
+UserIdstring"g
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs ("
+
+%retstringB*(
+&DmWebPlatform.API.Models.UserRoleModel¸
+1DmWebPlatform.API.Models.UserRoleModel.UserId.setS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs$ ('"0*≠
+0( ((±
+Æ
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs$ ('<(
+&DmWebPlatform.API.Models.UserRoleModel"
+UserIdstring"__id*
+
+valuestring"j
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs$ ('
+implicit return:
+valuestringB*(
+&DmWebPlatform.API.Models.UserRoleModelXµ
+/DmWebPlatform.API.Models.UserRoleModel.Role.getS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs ( "0*˝
+0! (!Ñ
+Å
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs ( 
+%retstring"__id*ì
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs ( <*:(
+&DmWebPlatform.API.Models.UserRoleModel"
+Rolestring"g
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs ( 
+
+%retstringB*(
+&DmWebPlatform.API.Models.UserRoleModel¯
+/DmWebPlatform.API.Models.UserRoleModel.Role.setS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs" (%"0*´
+0& (&Ø
+¨
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs" (%:(
+&DmWebPlatform.API.Models.UserRoleModel"
+Rolestring"__id*
+
+valuestring"j
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs" (%
+implicit return:
+valuestringB*(
+&DmWebPlatform.API.Models.UserRoleModelXÓ
+0DmWebPlatform.API.Models.LoginModel.UserName.setP
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs& ()"0*¶
+0* (*≠
+™
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs& ();%
+#DmWebPlatform.API.Models.LoginModel"
+UserNamestring"__id*
+
+valuestring"g
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs& ()
+implicit return:
+valuestringB'%
+#DmWebPlatform.API.Models.LoginModelX®
+0DmWebPlatform.API.Models.LoginModel.UserName.getP
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($"0*ı
+0% (%ˇ
+¸
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($
+%retstring"__id*ë
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($=*;%
+#DmWebPlatform.API.Models.LoginModel"
+UserNamestring"d
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($
+
+%retstringB'%
+#DmWebPlatform.API.Models.LoginModel⁄
+”DmWebPlatform.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate, Microsoft.Extensions.Logging.ILogger<DmWebPlatform.API.Middleware.ErrorHandlingMiddleware>)a
+WC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Middleware\ErrorHandlingMiddleware.cs (&"0*
+0 (*
+1*ë
+1 (o
+m
+ (	
+
+%0void"object.Object()*D
+ (	86
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddleware∏
+µ
+ (l6
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddleware"2
+_next)Microsoft.AspNetCore.Http.RequestDelegate"__id*53
+1
+next)Microsoft.AspNetCore.Http.RequestDelegate–
+Õ
+ (x6
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddleware">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*A?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*.
+2	 (	"
+ (	
+implicit return:=
+' (;1
+next)Microsoft.AspNetCore.Http.RequestDelegate:I
+= (d=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B86
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddlewareX®
+0DmWebPlatform.API.Models.LoginModel.Password.getP
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($"0*ı
+0% (%ˇ
+¸
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($
+%retstring"__id*ë
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($=*;%
+#DmWebPlatform.API.Models.LoginModel"
+Passwordstring"d
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs! ($
+
+%retstringB'%
+#DmWebPlatform.API.Models.LoginModelΩ
+3DmWebPlatform.API.Models.UserRoleModel.UserName.getS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs! ($"0*Å
+0% (%à
+Ö
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs! ($
+%retstring"__id*ó
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs! ($@*>(
+&DmWebPlatform.API.Models.UserRoleModel"
+UserNamestring"g
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs! ($
+
+%retstringB*(
+&DmWebPlatform.API.Models.UserRoleModelÄ
+3DmWebPlatform.API.Models.UserRoleModel.UserName.setS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs& ()"0*Ø
+0* (*≥
+∞
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs& ()>(
+&DmWebPlatform.API.Models.UserRoleModel"
+UserNamestring"__id*
+
+valuestring"j
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\UserRoleModel.cs& ()
+implicit return:
+valuestringB*(
+&DmWebPlatform.API.Models.UserRoleModelXº
+úDmWebPlatform.API.Controllers.AuditLogsController.AuditLogsController(DmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService, AutoMapper.IMapper)^
+TC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\AuditLogsController.cs (""0*
+0 (*
+1*Æ
+1 (å
+â
+ (	
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*7
+ (	+)
+'Microsoft.AspNetCore.Mvc.ControllerBase¸
+˘
+ (.å3
+1DmWebPlatform.API.Controllers.AuditLogsController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService"__id*XV
+T
+auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogServiceã
+à
+ (T3
+1DmWebPlatform.API.Controllers.AuditLogsController"
+_mapperAutoMapper.IMapper"__id* 
+
+mapperAutoMapper.IMapper*
+2*.
+2	 (	"
+ (	
+implicit return:`
+# (CT
+auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService:(
+E (S
+mapperAutoMapper.IMapperB53
+1DmWebPlatform.API.Controllers.AuditLogsControllerXΩ
+3DmWebPlatform.API.Models.RegisterModel.UserName.getS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs! ($"0*Å
+0% (%à
+Ö
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs! ($
+%retstring"__id*ó
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs! ($@*>(
+&DmWebPlatform.API.Models.RegisterModel"
+UserNamestring"g
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs! ($
+
+%retstringB*(
+&DmWebPlatform.API.Models.RegisterModelÓ
+0DmWebPlatform.API.Models.LoginModel.Password.setP
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs& ()"0*¶
+0* (*≠
+™
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs& ();%
+#DmWebPlatform.API.Models.LoginModel"
+Passwordstring"__id*
+
+valuestring"g
+P
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\LoginModel.cs& ()
+implicit return:
+valuestringB'%
+#DmWebPlatform.API.Models.LoginModelXÁ	
+¿DmWebPlatform.API.Controllers.EventController.EventController(DmWebPlatform.Infrastructure.Interfaces.Services.IEventService, DmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService)Z
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.cs ("0*
+0 (*
+1*ã
+1 (/å
+â
+ (	
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*7
+ (	+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÏ
+È
+ ((Ç/
+-DmWebPlatform.API.Controllers.EventController"O
+_eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService"__id*RP
+N
+eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService¯
+ı
+ (.à/
+-DmWebPlatform.API.Controllers.EventController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService"__id*XV
+T
+auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService*
+2*.
+2	 (	"
+ (	
+implicit return:Z
+ (9N
+eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService:`
+; ([T
+auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogServiceB1/
+-DmWebPlatform.API.Controllers.EventControllerXÄ
+3DmWebPlatform.API.Models.RegisterModel.UserName.setS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs& ()"0*Ø
+0* (*≥
+∞
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs& ()>(
+&DmWebPlatform.API.Models.RegisterModel"
+UserNamestring"__id*
+
+valuestring"j
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs& ()
+implicit return:
+valuestringB*(
+&DmWebPlatform.API.Models.RegisterModelXØ
+àDmWebPlatform.API.Controllers.UserController.UserController(Microsoft.AspNetCore.Identity.UserManager<DmWebPlatform.Domain.Entities.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<DmWebPlatform.Domain.Entities.ApplicationUser>, DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService, Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>)Y
+OC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\UserController.cs ("0*
+0 (*
+1*Ñ
+1 ('å
+â
+ (	
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*7
+ (	+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÃ
+…
+ (&r.
+,DmWebPlatform.API.Controllers.UserController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*CA
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>‘
+—
+ (*v.
+,DmWebPlatform.API.Controllers.UserController"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*GE
+C
+signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>Î
+Ë
+ ((Å.
+,DmWebPlatform.API.Controllers.UserController"O
+_tokenService>DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService"__id*RP
+N
+tokenService>DmWebPlatform.Infrastructure.Interfaces.Services.ITokenServiceÃ
+…
+ (&r.
+,DmWebPlatform.API.Controllers.UserController"@
+_roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>"__id*CA
+?
+roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>*
+2*.
+2	 (	"
+ (	
+implicit return:K
+ (4?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:O
+ (8C
+signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>:Z
+ (&N
+tokenService>DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService:K
+ (1?
+roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>B0.
+,DmWebPlatform.API.Controllers.UserControllerXò
+5DmWebPlatform.API.Models.TokenResponseModel.Token.setX
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs# (&"0*ª
+0' ('∫
+∑
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs# (&@-
++DmWebPlatform.API.Models.TokenResponseModel"
+Tokenstring"__id*
+
+valuestring"o
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs# (&
+implicit return:
+valuestringB/-
++DmWebPlatform.API.Models.TokenResponseModelX˙
+0DmWebPlatform.API.Models.RegisterModel.Email.setS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs# (&"0*¨
+0' ('∞
+≠
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs# (&;(
+&DmWebPlatform.API.Models.RegisterModel"
+Emailstring"__id*
+
+valuestring"j
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs# (&
+implicit return:
+valuestringB*(
+&DmWebPlatform.API.Models.RegisterModelXˇ
+:DmWebPlatform.API.Models.TokenResponseModel.Expiration.getX
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs% (("0*≤
+0) ()´
+®
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs% ((
+%retSystem.DateTime"__id*¨
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs% ((P*N-
++DmWebPlatform.API.Models.TokenResponseModel"
+
+ExpirationSystem.DateTime"u
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs% ((
+
+%retSystem.DateTimeB/-
++DmWebPlatform.API.Models.TokenResponseModelΩ
+3DmWebPlatform.API.Models.RegisterModel.Password.getS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs	! 	($"0*Å
+0	% 	(%à
+Ö
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs	! 	($
+%retstring"__id*ó
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs	! 	($@*>(
+&DmWebPlatform.API.Models.RegisterModel"
+Passwordstring"g
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs	! 	($
+
+%retstringB*(
+&DmWebPlatform.API.Models.RegisterModel⁄
+5DmWebPlatform.API.Models.TokenResponseModel.Token.getX
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs (!"0*í
+0" ("î
+ë
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs (!
+%retstring"__id*û
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs (!B*@-
++DmWebPlatform.API.Models.TokenResponseModel"
+Tokenstring"l
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs (!
+
+%retstringB/-
++DmWebPlatform.API.Models.TokenResponseModelÄ
+3DmWebPlatform.API.Models.RegisterModel.Password.setS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs	& 	()"0*Ø
+0	* 	(*≥
+∞
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs	& 	()>(
+&DmWebPlatform.API.Models.RegisterModel"
+Passwordstring"__id*
+
+valuestring"j
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs	& 	()
+implicit return:
+valuestringB*(
+&DmWebPlatform.API.Models.RegisterModelX∑
+0DmWebPlatform.API.Models.RegisterModel.Email.getS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs (!"0*˛
+0" ("Ö
+Ç
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs (!
+%retstring"__id*î
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs (!=*;(
+&DmWebPlatform.API.Models.RegisterModel"
+Emailstring"g
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs (!
+
+%retstringB*(
+&DmWebPlatform.API.Models.RegisterModelΩ
+:DmWebPlatform.API.Models.TokenResponseModel.Expiration.setX
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs* (-"0*“
+0. (.—
+Œ
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs* (-N-
++DmWebPlatform.API.Models.TokenResponseModel"
+
+ExpirationSystem.DateTime"__id*
+
+valueSystem.DateTime"o
+X
+NC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\TokenResponseModel.cs* (-
+implicit return:
+valueSystem.DateTimeB/-
++DmWebPlatform.API.Models.TokenResponseModelXÀ
+:DmWebPlatform.API.Models.RegisterModel.ConfirmPassword.getS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs( (+"0*à
+0, (,è
+å
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs( (+
+%retstring"__id*û
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs( (+G*E(
+&DmWebPlatform.API.Models.RegisterModel"
+ConfirmPasswordstring"g
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs( (+
+
+%retstringB*(
+&DmWebPlatform.API.Models.RegisterModelé
+:DmWebPlatform.API.Models.RegisterModel.ConfirmPassword.setS
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs- (0"0*∂
+01 (1∫
+∑
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs- (0E(
+&DmWebPlatform.API.Models.RegisterModel"
+ConfirmPasswordstring"__id*
+
+valuestring"j
+S
+IC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Models\RegisterModel.cs- (0
+implicit return:
+valuestringB*(
+&DmWebPlatform.API.Models.RegisterModelX‘
+@DmWebPlatform.API.Controllers.AuditLogsController.GetAuditLogs()^
+TC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\AuditLogsController.csB (N"0*4
+0 ( 
+
+B (N
+%0"__entrypoint*
+1*Ç
+1 (#ƒ¡
+" (F*
+%1$System.Threading.Tasks.Task<TResult>"UDmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService.GetAuditLogsAsync()*ú
+" (2è*å3
+1DmWebPlatform.API.Controllers.AuditLogsController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService2GetAuditLogsAsync()s
+q
+ (F/
+	auditLogs"System.Collections.Generic.List<T>"__id*.,
+*
+%1$System.Threading.Tasks.Task<TResult>Æ´
+ (O/
+%2)System.Collections.Generic.IEnumerable<T>"0AutoMapper.IMapperBase.Map<TDestination>(object)*b
+ (&V*T3
+1DmWebPlatform.API.Controllers.AuditLogsController"
+_mapperAutoMapper.IMapper*=
+E (N1
+/
+	auditLogs"System.Collections.Generic.List<T>2Map<TDestination>(object)É
+Ä
+ (O9
+auditLogDtos)System.Collections.Generic.IEnumerable<T>"__id*31
+/
+%2)System.Collections.Generic.IEnumerable<T>äá
+ (#-
+%3'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*A
+ (53
+1DmWebPlatform.API.Controllers.AuditLogsController*G
+ (";
+9
+auditLogDtos)System.Collections.Generic.IEnumerable<T>2Ok(object?)Ì
+Í
+ (#ö
+%retëSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<DmWebPlatform.Domain.DTOs.AuditLogDto>>>"__id*;
+ (#/
+-
+%3'Microsoft.AspNetCore.Mvc.OkObjectResult*
+2*∫
+2	 (	"™
+ (	ù
+ö
+%retëSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<DmWebPlatform.Domain.DTOs.AuditLogDto>>>B53
+1DmWebPlatform.API.Controllers.AuditLogsControllerÇ
+gDmWebPlatform.API.Middleware.ErrorHandlingMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)a
+WC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Middleware\ErrorHandlingMiddleware.cs (%"0*
+0 (*
+1*å
+1 (%ÙÒ
+ ($!
+%0System.Threading.Tasks.Task"WMicrosoft.AspNetCore.Http.RequestDelegate.Invoke(Microsoft.AspNetCore.Http.HttpContext)*z
+ (n*l6
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddleware"2
+_next)Microsoft.AspNetCore.Http.RequestDelegate*>
+ (#2
+0
+context%Microsoft.AspNetCore.Http.HttpContext2-Invoke(Microsoft.AspNetCore.Http.HttpContext)*
+3
+2*”
+2 (4;
+9
+ ( 
+exSystem.Exception"__id*
+	{unknown}(&
+ (H
+%1	object?[]"	object?[]¨
+©
+ (H
+
+%2void"äMicrosoft.Extensions.Logging.LoggerExtensions.LogError(Microsoft.Extensions.Logging.ILogger, System.Exception?, string?, params object?[])* *Ü
+ (z*x6
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddleware">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*$
+! (#
+
+exSystem.Exception*0
+% (G$"
+ An unhandled exception occurred.*
+ (H
+
+%1	object?[]®
+•
+ (3!
+%3System.Threading.Tasks.Task"pDmWebPlatform.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext)*D
+ (*86
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddleware*>
++ (22
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+3*@
+3	 (	"1
+ (	%
+#
+%retSystem.Threading.Tasks.Task:<
+& (90
+context%Microsoft.AspNetCore.Http.HttpContextB86
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddleware˘
+<DmWebPlatform.API.Controllers.EventController.GetAllEvents()Z
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.cs? (K"0*4
+0 ( 
+
+? (K
+%0"__entrypoint*
+1*ñ
+1  !(!°û
+ #  (9*
+%1$System.Threading.Tasks.Task<TResult>"GDmWebPlatform.Infrastructure.Interfaces.Services.IEventService.GetAll()*í
+ #  (0Ö*Ç/
+-DmWebPlatform.API.Controllers.EventController"O
+_eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService2GetAll()q
+o
+   (9-
+events#System.Collections.Generic.IList<T>"__id*.,
+*
+%1$System.Threading.Tasks.Task<TResult>˙˜
+! !(!-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*=
+! !(1/
+-DmWebPlatform.API.Controllers.EventController*;
+! !( /
+-
+events#System.Collections.Generic.IList<T>2Ok(object?)Í
+Á
+! !(!ó
+%retéSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<DmWebPlatform.Domain.DTOs.EventDto>>>"__id*;
+! !(!/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*
+3
+2*ù
+2# %(+;
+9
+# #( 
+exSystem.Exception"__id*
+	{unknown}ki
+%  %(*
+%3string"System.Exception.Message.get*$
+%  %("
+
+exSystem.Exception2Message.getÎË
+% %(+3
+%4-Microsoft.AspNetCore.Mvc.NotFoundObjectResult"9Microsoft.AspNetCore.Mvc.ControllerBase.NotFound(object?)*=
+% %(1/
+-DmWebPlatform.API.Controllers.EventController*
+%  %(*
+
+%3string2NotFound(object?)
+Ì
+% %(+ó
+%retéSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<DmWebPlatform.Domain.DTOs.EventDto>>>"__id*A
+% %(+5
+3
+%4-Microsoft.AspNetCore.Mvc.NotFoundObjectResult*
+3*∑
+3'	 '(	"ß
+' '(	ö
+ó
+%retéSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<DmWebPlatform.Domain.DTOs.EventDto>>>B1/
+-DmWebPlatform.API.Controllers.EventControllerË
+?DmWebPlatform.API.Controllers.EventController.GetEventById(int)Z
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.cs-2 -(>"0*≤
+0* *(/
+-
+-2 -(>
+%0"__entrypoint*
+	
+idintw
+u
+*	 *(/
+%1"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
+	
+idintú
+ô
++	 +(H
+%2"
+__annotate*ljh
+fMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(System.Type, int)*
+	
+idintè
+å
+,	 ,(<
+%3"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+	
+idintC
+A
+-? -(E	
+idint"__annotation*
+
+%1*
+
+%2*
+
+%3*
+1*À
+1/ 1(!¿Ω
+/" /(:*
+%4$System.Threading.Tasks.Task<TResult>"JDmWebPlatform.Infrastructure.Interfaces.Services.IEventService.GetOne(int)*í
+/" /(/Ö*Ç/
+-DmWebPlatform.API.Controllers.EventController"O
+_eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService*
+/7 /(9
+	
+idint2GetOne(int)s
+q
+/ /(:/
+	eventItem"DmWebPlatform.Domain.DTOs.EventDto"__id*.,
+*
+%4$System.Threading.Tasks.Task<TResult>|
+z
+1 1(!
+
+%5bool"	__compare*
+==*=
+1 1(1
+/
+	eventItem"DmWebPlatform.Domain.DTOs.EventDto*
+1 1(! *
+2
+3*ì
+23 3(!ª∏
+3 3(!-
+%6'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*=
+3 3(1/
+-DmWebPlatform.API.Controllers.EventController2
+NotFound()¿
+Ω
+3 3(!n
+%retfSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<DmWebPlatform.Domain.DTOs.EventDto>>"__id*;
+3 3(!/
+-
+%6'Microsoft.AspNetCore.Mvc.NotFoundResult*
+4*‘
+36 6( ¸˘
+6 6( -
+%7'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*=
+6 6(1/
+-DmWebPlatform.API.Controllers.EventController*=
+6 6(1
+/
+	eventItem"DmWebPlatform.Domain.DTOs.EventDto2Ok(object?)¿
+Ω
+6 6( n
+%retfSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<DmWebPlatform.Domain.DTOs.EventDto>>"__id*;
+6 6( /
+-
+%7'Microsoft.AspNetCore.Mvc.OkObjectResult*
+4*ã
+47	 7(	"|
+7 7(	p
+n
+%retfSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<DmWebPlatform.Domain.DTOs.EventDto>>:
+-? -(E	
+idintB1/
+-DmWebPlatform.API.Controllers.EventController¬
+gDmWebPlatform.API.Controllers.AuditLogsController.CreateAuditLog(DmWebPlatform.Domain.DTOs.AuditLogDto)^
+TC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\AuditLogsController.cs )  (7"0*√
+0 (`
+^
+ )  (7D
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDto"
+Idstring"__entrypointp
+n
+ )  (7T
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDto"
+	TimestampSystem.DateTime"__entrypointd
+b
+ )  (7H
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDto"
+Actionstring"__entrypointd
+b
+ )  (7H
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDto"
+UserIdstring"__entrypointe
+c
+ )  (7I
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDto"
+Payloadstring"__entrypointü
+ú
+	 (
+%0"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*86
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDtoü
+ú
+ 9  (A
+%1"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*86
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDtod
+b
+ 8  (Z4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDto"__annotation*
+
+%0*
+
+%1*
+1* 
+1# '(µ≤
+#  #(G1
+%2+DmWebPlatform.Domain.Entities.AuditLogEntry"0AutoMapper.IMapperBase.Map<TDestination>(object)*b
+#  #('V*T3
+1DmWebPlatform.API.Controllers.AuditLogsController"
+_mapperAutoMapper.IMapper*B
+#; #(F6
+4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDto2Map<TDestination>(object)à
+Ö
+# #(G<
+auditLogEntry+DmWebPlatform.Domain.Entities.AuditLogEntry"__id*53
+1
+%2+DmWebPlatform.Domain.Entities.AuditLogEntryü
+ú
+$R $(f
+%3string"6DmWebPlatform.Domain.Entities.AuditLogEntry.Action.get*J
+$R $(_>
+<
+auditLogEntry+DmWebPlatform.Domain.Entities.AuditLogEntry
+}
+$. $(g
+%4object"&System.Enum.Parse(System.Type, string)* *
+$9 $(P
+	{unknown}*
+$R $(f
+
+%3stringf
+d
+$ $(g@
+
+actionType2DmWebPlatform.Infrastructure.Enums.AuditActionType"__id*
+
+%4object†
+ù
+%> %(S
+%5string"7DmWebPlatform.Domain.Entities.AuditLogEntry.Payload.get*J
+%> %(K>
+<
+auditLogEntry+DmWebPlatform.Domain.Entities.AuditLogEntryñì
+% %(T!
+%6System.Threading.Tasks.Task"åDmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService.LogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)*ú
+% %("è*å3
+1DmWebPlatform.API.Controllers.AuditLogsController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService*N
+%2 %(<B
+@
+
+actionType2DmWebPlatform.Infrastructure.Enums.AuditActionType*
+%> %(S
+
+%5string2JLogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)≠™
+' '('
+%7!Microsoft.AspNetCore.Mvc.OkResult",Microsoft.AspNetCore.Mvc.ControllerBase.Ok()*A
+' '(53
+1DmWebPlatform.API.Controllers.AuditLogsController2Ok()b
+`
+' '(
+
+%8void"__asp_net_controller_return*+)
+'
+%7!Microsoft.AspNetCore.Mvc.OkResultó
+î
+' '(K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*5
+' '()
+'
+%7!Microsoft.AspNetCore.Mvc.OkResult*
+2*h
+2(	 ((	"Y
+( ((	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:@
+ 8  (Z4
+auditLogDto%DmWebPlatform.Domain.DTOs.AuditLogDtoB53
+1DmWebPlatform.API.Controllers.AuditLogsController√5
+]DmWebPlatform.API.Controllers.UserController.Register(DmWebPlatform.API.Models.RegisterModel)Y
+OC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\UserController.cs!) !(1"0*ó
+
+0   (r
+p
+!) !(1V
+/
+model&DmWebPlatform.API.Models.RegisterModel"#
+<UserName>k__BackingFieldstring"__entrypointa
+_
+!) !(1E
+/
+model&DmWebPlatform.API.Models.RegisterModel"
+UserNamestring"__entrypointo
+m
+!) !(1S
+/
+model&DmWebPlatform.API.Models.RegisterModel" 
+<Email>k__BackingFieldstring"__entrypoint^
+\
+!) !(1B
+/
+model&DmWebPlatform.API.Models.RegisterModel"
+Emailstring"__entrypointr
+p
+!) !(1V
+/
+model&DmWebPlatform.API.Models.RegisterModel"#
+<Password>k__BackingFieldstring"__entrypointa
+_
+!) !(1E
+/
+model&DmWebPlatform.API.Models.RegisterModel"
+Passwordstring"__entrypointy
+w
+!) !(1]
+/
+model&DmWebPlatform.API.Models.RegisterModel"*
+ <ConfirmPassword>k__BackingFieldstring"__entrypointh
+f
+!) !(1L
+/
+model&DmWebPlatform.API.Models.RegisterModel"
+ConfirmPasswordstring"__entrypoint†
+ù
+ 	  (
+%0"
+__annotate*JHF
+DMicrosoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute(string)*31
+/
+model&DmWebPlatform.API.Models.RegisterModelö
+ó
+!3 !(;
+%1"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*31
+/
+model&DmWebPlatform.API.Models.RegisterModel_
+]
+!2 !(P/
+model&DmWebPlatform.API.Models.RegisterModel"__annotation*
+
+%0*
+
+%1*
+1*‹
+1# #([pn
+# #(]3
+%2-DmWebPlatform.Domain.Entities.ApplicationUser"-DmWebPlatform.Domain.Entities.ApplicationUser∆
+√
+# #(]3
+%3-DmWebPlatform.Domain.Entities.ApplicationUser"?DmWebPlatform.Domain.Entities.ApplicationUser.ApplicationUser()*A
+# #(]5
+3
+%2-DmWebPlatform.Domain.Entities.ApplicationUserà
+Ö
+# #(]:
+	%capture0-DmWebPlatform.Domain.Entities.ApplicationUser"__id*75
+3
+%2-DmWebPlatform.Domain.Entities.ApplicationUserè
+å
+#8 #(F
+%4string"3DmWebPlatform.API.Models.RegisterModel.UserName.get*=
+#8 #(=1
+/
+model&DmWebPlatform.API.Models.RegisterModelB
+@
+#8 #(F
+%5string"__fromBodyAnnotation*
+
+%4stringÁ‰
+#- #(F
+%6string"`Microsoft.AspNet.Identity.EntityFramework.IdentityUser<TKey, TLogin, TRole, TClaim>.UserName.set*H
+# #(]<
+:
+	%capture0-DmWebPlatform.Domain.Entities.ApplicationUser*
+
+%5string2UserName.setå
+â
+#P #([
+%7string"0DmWebPlatform.API.Models.RegisterModel.Email.get*=
+#P #(U1
+/
+model&DmWebPlatform.API.Models.RegisterModelB
+@
+#P #([
+%8string"__fromBodyAnnotation*
+
+%7string·ﬁ
+#H #([
+%9string"]Microsoft.AspNet.Identity.EntityFramework.IdentityUser<TKey, TLogin, TRole, TClaim>.Email.set*H
+# #(]<
+:
+	%capture0-DmWebPlatform.Domain.Entities.ApplicationUser*
+
+%8string2	Email.setä
+á
+# #(]5
+user-DmWebPlatform.Domain.Entities.ApplicationUser"__id*><
+:
+	%capture0-DmWebPlatform.Domain.Entities.ApplicationUser*
+2*ï
+2$ &( ê
+ç
+$> $(L
+%10string"3DmWebPlatform.API.Models.RegisterModel.Password.get*=
+$> $(C1
+/
+model&DmWebPlatform.API.Models.RegisterModelD
+B
+$> $(L
+%11string"__fromBodyAnnotation*
+
+%10stringàÖ
+$ $(M+
+%12$System.Threading.Tasks.Task<TResult>"KMicrosoft.AspNetCore.Identity.UserManager<TUser>.CreateAsync(TUser, string)*Ä
+$ $(+t*r.
+,DmWebPlatform.API.Controllers.UserController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*C
+$8 $(<7
+5
+user-DmWebPlatform.Domain.Entities.ApplicationUser*
+$> $(L
+
+%11string2CreateAsync(TUser, string){
+y
+$ $(M6
+result,Microsoft.AspNetCore.Identity.IdentityResult"__id*/-
++
+%12$System.Threading.Tasks.Task<TResult>ú
+ô
+& &( 
+%13bool":Microsoft.AspNetCore.Identity.IdentityResult.Succeeded.get*D
+& &(8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResult*
+3
+5*√
+3( )(CáÑ
+( ((?+
+%14$System.Threading.Tasks.Task<TResult>"NMicrosoft.AspNetCore.Identity.UserManager<TUser>.AddToRoleAsync(TUser, string)*Ä
+( (("t*r.
+,DmWebPlatform.API.Controllers.UserController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*C
+(2 ((67
+5
+user-DmWebPlatform.Domain.Entities.ApplicationUser*
+(8 ((>
+User2AddToRoleAsync(TUser, string)ŒÀ
+)" )(C+
+%15$System.Threading.Tasks.Task<TResult>"{DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService.GenerateToken(DmWebPlatform.Domain.Entities.ApplicationUser)*ë
+)" )(/Ñ*Å.
+,DmWebPlatform.API.Controllers.UserController"O
+_tokenService>DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService*C
+)> )(B7
+5
+user-DmWebPlatform.Domain.Entities.ApplicationUser2<GenerateToken(DmWebPlatform.Domain.Entities.ApplicationUser)T
+R
+) )(C
+tokenstring"__id*/-
++
+%15$System.Threading.Tasks.Task<TResult>*
+4*»
+4* *(-Å
+
+* *(9
+	%capture1,DmWebPlatform.API.Controllers.UserController"__id*20.
+,DmWebPlatform.API.Controllers.UserController<
+:
+*( *(-
+	%capture2string"__id*
+
+tokenstringè
+å
+*  *(-
+%16string"(<anonymous type: string Token>.Token.set*.
+* *(/" 
+<anonymous type: string Token>*
+
+	%capture2stringSQ
+* *(/%
+%17<anonymous type: string Token>"<anonymous type: string Token>˝˙
+* *(0.
+%18'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*G
+* *(;
+9
+	%capture1,DmWebPlatform.API.Controllers.UserController*3
+* *(/'
+%
+%17<anonymous type: string Token>2Ok(object?)j
+h
+* *(0
+%19void"__asp_net_controller_return*20
+.
+%18'Microsoft.AspNetCore.Mvc.OkObjectResultû
+õ
+* *(0K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*<
+* *(00
+.
+%18'Microsoft.AspNetCore.Mvc.OkObjectResult*
+6*à
+5- -(,æ
+ª
+- -(+0
+%20)System.Collections.Generic.IEnumerable<T>"7Microsoft.AspNetCore.Identity.IdentityResult.Errors.get*D
+- -($8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResultïí
+- -(,6
+%21/Microsoft.AspNetCore.Mvc.BadRequestObjectResult";Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object?)*<
+- -(0.
+,DmWebPlatform.API.Controllers.UserController*>
+- -(+2
+0
+%20)System.Collections.Generic.IEnumerable<T>2BadRequest(object?)r
+p
+- -(,
+%22void"__asp_net_controller_return*:8
+6
+%21/Microsoft.AspNetCore.Mvc.BadRequestObjectResult¶
+£
+- -(,K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*D
+- -(,8
+6
+%21/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*
+6*h
+6.	 .(	"Y
+. .(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:;
+!2 !(P/
+model&DmWebPlatform.API.Models.RegisterModelB0.
+,DmWebPlatform.API.Controllers.UserController·'
+WDmWebPlatform.API.Controllers.UserController.Login(DmWebPlatform.API.Models.LoginModel)Y
+OC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\UserController.cs2) 2(."0*Ã
+01 1(o
+m
+2) 2(.S
+,
+model#DmWebPlatform.API.Models.LoginModel"#
+<UserName>k__BackingFieldstring"__entrypoint^
+\
+2) 2(.B
+,
+model#DmWebPlatform.API.Models.LoginModel"
+UserNamestring"__entrypointo
+m
+2) 2(.S
+,
+model#DmWebPlatform.API.Models.LoginModel"#
+<Password>k__BackingFieldstring"__entrypoint^
+\
+2) 2(.B
+,
+model#DmWebPlatform.API.Models.LoginModel"
+Passwordstring"__entrypointù
+ö
+1	 1(
+%0"
+__annotate*JHF
+DMicrosoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute(string)*0.
+,
+model#DmWebPlatform.API.Models.LoginModeló
+î
+20 2(8
+%1"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*0.
+,
+model#DmWebPlatform.API.Models.LoginModel\
+Z
+2/ 2(J,
+model#DmWebPlatform.API.Models.LoginModel"__annotation*
+
+%0*
+
+%1*
+1*¸
+14 5( â
+Ü
+4B 4(P
+%2string"0DmWebPlatform.API.Models.LoginModel.UserName.get*:
+4B 4(G.
+,
+model#DmWebPlatform.API.Models.LoginModelB
+@
+4B 4(P
+%3string"__fromBodyAnnotation*
+
+%2stringâ
+Ü
+4R 4(`
+%4string"0DmWebPlatform.API.Models.LoginModel.Password.get*:
+4R 4(W.
+,
+model#DmWebPlatform.API.Models.LoginModelB
+@
+4R 4(`
+%5string"__fromBodyAnnotation*
+
+%4stringØ¨
+	4 4(è*
+%6$System.Threading.Tasks.Task<TResult>"bMicrosoft.AspNetCore.Identity.SignInManager<TUser>.PasswordSignInAsync(string, string, bool, bool)*Ñ
+4 4(-x*v.
+,DmWebPlatform.API.Controllers.UserController"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
+4B 4(P
+
+%3string*
+4R 4(`
+
+%5string*
+4b 4(u *
+	4w 4(é 2/PasswordSignInAsync(string, string, bool, bool)y
+w
+	4 4(è4
+result*Microsoft.AspNetCore.Identity.SignInResult"__id*.,
+*
+%6$System.Threading.Tasks.Task<TResult>ó
+î
+5 5( 
+
+%7bool"8Microsoft.AspNetCore.Identity.SignInResult.Succeeded.get*B
+5 5(6
+4
+result*Microsoft.AspNetCore.Identity.SignInResult*
+2
+4*ƒ	
+27 8(Câ
+Ü
+7> 7(L
+%8string"0DmWebPlatform.API.Models.LoginModel.UserName.get*:
+7> 7(C.
+,
+model#DmWebPlatform.API.Models.LoginModelB
+@
+7> 7(L
+%9string"__fromBodyAnnotation*
+
+%8stringºπ
+7! 7(M+
+%10$System.Threading.Tasks.Task<TResult>"HMicrosoft.AspNetCore.Identity.UserManager<TUser>.FindByNameAsync(string)*Ä
+7! 7(-t*r.
+,DmWebPlatform.API.Controllers.UserController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*
+7> 7(L
+
+%9string2FindByNameAsync(string)z
+x
+7 7(M5
+user-DmWebPlatform.Domain.Entities.ApplicationUser"__id*/-
++
+%10$System.Threading.Tasks.Task<TResult>ŒÀ
+8" 8(C+
+%11$System.Threading.Tasks.Task<TResult>"{DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService.GenerateToken(DmWebPlatform.Domain.Entities.ApplicationUser)*ë
+8" 8(/Ñ*Å.
+,DmWebPlatform.API.Controllers.UserController"O
+_tokenService>DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService*C
+8> 8(B7
+5
+user-DmWebPlatform.Domain.Entities.ApplicationUser2<GenerateToken(DmWebPlatform.Domain.Entities.ApplicationUser)T
+R
+8 8(C
+tokenstring"__id*/-
++
+%11$System.Threading.Tasks.Task<TResult>*
+3*»
+39 9(-Å
+
+9 9(9
+	%capture0,DmWebPlatform.API.Controllers.UserController"__id*20.
+,DmWebPlatform.API.Controllers.UserController<
+:
+9( 9(-
+	%capture1string"__id*
+
+tokenstringè
+å
+9  9(-
+%12string"(<anonymous type: string Token>.Token.set*.
+9 9(/" 
+<anonymous type: string Token>*
+
+	%capture1stringSQ
+9 9(/%
+%13<anonymous type: string Token>"<anonymous type: string Token>˝˙
+9 9(0.
+%14'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*G
+9 9(;
+9
+	%capture0,DmWebPlatform.API.Controllers.UserController*3
+9 9(/'
+%
+%13<anonymous type: string Token>2Ok(object?)j
+h
+9 9(0
+%15void"__asp_net_controller_return*20
+.
+%14'Microsoft.AspNetCore.Mvc.OkObjectResultû
+õ
+9 9(0K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*<
+9 9(00
+.
+%14'Microsoft.AspNetCore.Mvc.OkObjectResult*
+5*Ò
+4< <(!«ƒ
+< <(!2
+%16+Microsoft.AspNetCore.Mvc.UnauthorizedResult"6Microsoft.AspNetCore.Mvc.ControllerBase.Unauthorized()*<
+< <(0.
+,DmWebPlatform.API.Controllers.UserController2Unauthorized()n
+l
+< <(!
+%17void"__asp_net_controller_return*64
+2
+%16+Microsoft.AspNetCore.Mvc.UnauthorizedResult¢
+ü
+< <(!K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*@
+< <(!4
+2
+%16+Microsoft.AspNetCore.Mvc.UnauthorizedResult*
+5*h
+5=	 =(	"Y
+= =(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:8
+2/ 2(J,
+model#DmWebPlatform.API.Models.LoginModelB0.
+,DmWebPlatform.API.Controllers.UserControllerﬁ
+¥DmWebPlatform.API.Extensions.ServiceCollectionExtensions.AddDatabase(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)e
+[C:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Extensions\ServiceCollectionExtensions.cs) (4"0*
+0 (*
+1*·
+1  (—
+Œ
+ (A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"‚Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>?, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)* *U
+ (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+8 (
+	{unknown}*
+ (2*
+ (2ó
+î
+ ({A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÃMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)* *U
+ (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+; (z
+	{unknown}Ã
+…
+ (+A
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)* *U
+ (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection›
+⁄
+ (9A
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)* *U
+ (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionØ
+¨
+   (C
+%ret;Microsoft.Extensions.DependencyInjection.IServiceCollection"__id*U
+   (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+2*`
+2!	 !(	"Q
+! !(	E
+C
+%ret;Microsoft.Extensions.DependencyInjection.IServiceCollection:S
+5 (UG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:N
+W (sB
+configuration1Microsoft.Extensions.Configuration.IConfigurationB<":
+8DmWebPlatform.API.Extensions.ServiceCollectionExtensions¿+
+]DmWebPlatform.API.Controllers.EventController.CreateEvent(DmWebPlatform.Domain.DTOs.EventDto)Z
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.cs=2 =(="0*√
+0: :(S
+Q
+=2 =(=7
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"	
+Idint"__entrypointX
+V
+=2 =(=<
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Namestring"__entrypoint\
+Z
+=2 =(=@
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Categorystring"__entrypointY
+W
+=2 =(==
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Placestring"__entrypointa
+_
+=2 =(=E
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+DateSystem.DateOnly"__entrypointa
+_
+=2 =(=E
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+TimeSystem.TimeOnly"__entrypoint_
+]
+=2 =(=C
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Descriptionstring"__entrypointb
+`
+=2 =(=F
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+AdditionalInfostring"__entrypointZ
+X
+=2 =(=>
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Imagesstring"__entrypoint°
+û
+:	 :(#
+%0"
+__annotate*PNL
+JMicrosoft.AspNetCore.Authorization.AuthorizeAttribute.AuthorizeAttribute()*.,
+*
+item"DmWebPlatform.Domain.DTOs.EventDtoï
+í
+;	 ;('
+%1"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*.,
+*
+item"DmWebPlatform.Domain.DTOs.EventDtoΩ
+∫
+<	 <(M
+%2"
+__annotate*ljh
+fMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(System.Type, int)*.,
+*
+item"DmWebPlatform.Domain.DTOs.EventDtod
+b
+=> =(K*
+item"DmWebPlatform.Domain.DTOs.EventDto"__annotation*
+
+%0*
+
+%1*
+
+%2*
+1*•
+1? ?(*êç
+? ?()!
+%3System.Threading.Tasks.Task"fDmWebPlatform.Infrastructure.Interfaces.Services.IEventService.Add(DmWebPlatform.Domain.DTOs.EventDto)*í
+? ?(Ö*Ç/
+-DmWebPlatform.API.Controllers.EventController"O
+_eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService*8
+?$ ?((,
+*
+item"DmWebPlatform.Domain.DTOs.EventDto2'Add(DmWebPlatform.Domain.DTOs.EventDto)*
+2*ø
+2B B(¨
+©
+B B(,
+%4&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*=
+B B(1/
+-DmWebPlatform.API.Controllers.EventControllery
+w
+B B(3
+	%capture0&System.Security.Claims.ClaimsPrincipal"__id*0.
+,
+%4&System.Security.Claims.ClaimsPrincipal*
+3
+6*ì
+3B B(Cóî
+B B(C"
+%5System.Security.Claims.Claim"8System.Security.Claims.ClaimsPrincipal.FindFirst(string)*A
+B B(5
+3
+	%capture0&System.Security.Claims.ClaimsPrincipal*T
+B) B(BHF
+Dhttp://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier2FindFirst(string)e
+c
+B B(C)
+	%capture1System.Security.Claims.Claim"__id*&$
+"
+%5System.Security.Claims.Claim*
+4*
+4B B(C*
+5
+6* 
+5BD B(J{
+y
+BD B(J
+%6string"&System.Security.Claims.Claim.Value.get*7
+B B(C+
+)
+	%capture1System.Security.Claims.Claim9
+7
+BD B(J
+	%capture2string"__id*
+
+%6string*
+7*A
+6B B(J-
++
+B B(J
+	%capture2string"__id* *
+7*
+7B B(J*
+8
+9*U
+8B B(J@
+>
+B B(J
+	%capture3string"__id*
+
+	%capture2string*
+10*M
+9BN B(Y8
+6
+BN B(Y
+	%capture3string"__id*
+	Anonymous*
+10*S
+10B B(Y=
+;
+B B(Y
+userIdstring"__id*
+
+	%capture3string*
+11*œ
+11C C(t|
+z
+Ci C(p	
+%7int")DmWebPlatform.Domain.DTOs.EventDto.Id.get*8
+Ci C(m,
+*
+item"DmWebPlatform.Domain.DTOs.EventDtof
+d
+CO C(r
+%8string"__concat*'
+CQ C(h
+Created event with ID: *
+Ch C(q
+	
+%7int“œ
+C C(s!
+%9System.Threading.Tasks.Task"åDmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService.LogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)*ò
+C C("ã*à/
+-DmWebPlatform.API.Controllers.EventController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService*
+C2 C(M2 *
+CO C(r
+
+%8string2JLogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)*
+12*¥	
+12E E(KÑ
+Å
+E E(":
+	%capture4-DmWebPlatform.API.Controllers.EventController"__id*31/
+-DmWebPlatform.API.Controllers.EventController;
+9
+E# E(7
+	%capture5string"__id*
+GetEventById}
+{
+ED E(K
+
+%10int")DmWebPlatform.Domain.DTOs.EventDto.Id.get*8
+ED E(H,
+*
+item"DmWebPlatform.Domain.DTOs.EventDto4
+2
+ED E(K
+	%capture6int"__id*
+
+
+%10inty
+w
+E? E(K
+
+%11int"<anonymous type: int id>.id.set*(
+E9 E(M
+<anonymous type: int id>*
+
+	%capture6intGE
+E9 E(M
+%12<anonymous type: int id>"<anonymous type: int id>ïí
+E E(T5
+%13.Microsoft.AspNetCore.Mvc.CreatedAtActionResult"RMicrosoft.AspNetCore.Mvc.ControllerBase.CreatedAtAction(string?, object?, object?)*H
+E E("<
+:
+	%capture4-DmWebPlatform.API.Controllers.EventController*
+E# E(7
+GetEventById*-
+E9 E(M!
+
+%12<anonymous type: int id>*8
+EO E(S,
+*
+item"DmWebPlatform.Domain.DTOs.EventDto2*CreatedAtAction(string?, object?, object?)»
+≈
+E E(Tn
+%retfSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<DmWebPlatform.Domain.DTOs.EventDto>>"__id*C
+E E(T7
+5
+%13.Microsoft.AspNetCore.Mvc.CreatedAtActionResult*
+13*å
+13F	 F(	"|
+F F(	p
+n
+%retfSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<DmWebPlatform.Domain.DTOs.EventDto>>:6
+=> =(K*
+item"DmWebPlatform.Domain.DTOs.EventDtoB1/
+-DmWebPlatform.API.Controllers.EventControllerÂ6
+>DmWebPlatform.API.SeedData.Initialize(System.IServiceProvider)G
+=C:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\SeedData.cs	! 	(+"0*
+0	 	(*
+1*®
+1 (K˚
+¯
+ (]2
+%0,Microsoft.AspNet.Identity.RoleManager<TRole>"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)* *8
+ (-,
+*
+serviceProviderSystem.IServiceProviderà
+Ö
+ (];
+roleManager,Microsoft.AspNet.Identity.RoleManager<TRole>"__id*64
+2
+%0,Microsoft.AspNet.Identity.RoleManager<TRole>˚
+¯
+ (`2
+%1,Microsoft.AspNet.Identity.UserManager<TUser>"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)* *8
+ (-,
+*
+serviceProviderSystem.IServiceProviderà
+Ö
+ (`;
+userManager,Microsoft.AspNet.Identity.UserManager<TUser>"__id*64
+2
+%1,Microsoft.AspNet.Identity.UserManager<TUser>&$
+! (K
+%2string[]"string[]Å
+
+# (*
+
+%3void",System.Array.SetValue(object?, params int[])*
+! (K
+
+%2string[]*
+# (*	
+Admin*2 â
+Ü
+, (8
+
+%4void",System.Array.SetValue(object?, params int[])*
+! (K
+
+%2string[]*
+, (8
+
+Instructor*2É
+Ä
+: (@
+
+%5void",System.Array.SetValue(object?, params int[])*
+! (K
+
+%2string[]*
+: (@
+User*2Ñ
+Å
+B (I
+
+%6void",System.Array.SetValue(object?, params int[])*
+! (K
+
+%2string[]*
+B (I	
+Guest*2=
+;
+ (K
+	roleNamesstring[]"__id*
+
+%2string[]*
+2*ô
+2% (.ôñ
+% (.$
+%7System.Collections.IEnumerator".System.Collections.IEnumerable.GetEnumerator()*#
+% (.
+
+	roleNamesstring[]2GetEnumerator()i
+g
+% (.+
+	%capture0System.Collections.IEnumerator"__id*(&
+$
+%7System.Collections.IEnumerator*
+3*£
+3% (.ãà
+% (.
+
+%8bool")System.Collections.IEnumerator.MoveNext()*9
+% (.-
++
+	%capture0System.Collections.IEnumerator2
+MoveNext()*
+4
+7*ﬁ
+4 (èå
+ (
+%9object"*System.Collections.IEnumerator.Current.get*9
+% (.-
++
+	%capture0System.Collections.IEnumerator2Current.get8
+6
+ (
+roleNamestring"__id*
+
+%9object*
+5*¸
+5 (åâ
+& (K+
+%10$System.Threading.Tasks.Task<TResult>"JMicrosoft.AspNet.Identity.RoleManager<TRole, TKey>.RoleExistsAsync(string)*I
+& (1=
+;
+roleManager,Microsoft.AspNet.Identity.RoleManager<TRole>* 
+B (J
+
+roleNamestring2RoleExistsAsync(string)V
+T
+ (K
+	roleExistbool"__id*/-
++
+%10$System.Threading.Tasks.Task<TResult>*
+6
+3*‘
+6 (NÑÅ
+2 (L=
+%116Microsoft.AspNet.Identity.EntityFramework.IdentityRole"6Microsoft.AspNet.Identity.EntityFramework.IdentityRoleà
+Ö
+2 (L=
+%126Microsoft.AspNet.Identity.EntityFramework.IdentityRole"KMicrosoft.AspNet.Identity.EntityFramework.IdentityRole.IdentityRole(string)*K
+2 (L?
+=
+%116Microsoft.AspNet.Identity.EntityFramework.IdentityRole* 
+C (K
+
+roleNamestring≠™
+ (M+
+%13$System.Threading.Tasks.Task<TResult>"EMicrosoft.AspNet.Identity.RoleManager<TRole, TKey>.CreateAsync(TRole)*I
+ (%=
+;
+roleManager,Microsoft.AspNet.Identity.RoleManager<TRole>*K
+2 (L?
+=
+%116Microsoft.AspNet.Identity.EntityFramework.IdentityRole2CreateAsync(TRole)*
+3*{
+7% (.d
+b
+% (.
+	%capture1System.IDisposable"__id*/-
++
+	%capture0System.Collections.IEnumerator*
+8
+9*Ö
+8% (.qo
+% (.
+%14void"System.IDisposable.Dispose()*-
+% (.!
+
+	%capture1System.IDisposable2	Dispose()*
+9*
+9	 	(*
+10*Ã
+10 (*qo
+  (4
+%15-DmWebPlatform.Domain.Entities.ApplicationUser"-DmWebPlatform.Domain.Entities.ApplicationUser»
+≈
+  (4
+%16-DmWebPlatform.Domain.Entities.ApplicationUser"?DmWebPlatform.Domain.Entities.ApplicationUser.ApplicationUser()*B
+  (6
+4
+%15-DmWebPlatform.Domain.Entities.ApplicationUserâ
+Ü
+  (:
+	%capture2-DmWebPlatform.Domain.Entities.ApplicationUser"__id*86
+4
+%15-DmWebPlatform.Domain.Entities.ApplicationUserÓÎ
+ (-
+%17string"`Microsoft.AspNet.Identity.EntityFramework.IdentityUser<TKey, TLogin, TRole, TClaim>.UserName.set*H
+  (<
+:
+	%capture2-DmWebPlatform.Domain.Entities.ApplicationUser*
+admin@domain.com2UserName.setËÂ
+ (*
+%18string"]Microsoft.AspNet.Identity.EntityFramework.IdentityUser<TKey, TLogin, TRole, TClaim>.Email.set*H
+  (<
+:
+	%capture2-DmWebPlatform.Domain.Entities.ApplicationUser*
+admin@domain.com2	Email.setè
+å
+  (:
+	adminUser-DmWebPlatform.Domain.Entities.ApplicationUser"__id*><
+:
+	%capture2-DmWebPlatform.Domain.Entities.ApplicationUser*
+11*‹
+11" %()D
+B
+" "(6
+adminPasswordstring"__id*
+AdminPassword123!–Õ
+#G #(V
+%19string"]Microsoft.AspNet.Identity.EntityFramework.IdentityUser<TKey, TLogin, TRole, TClaim>.Email.get*H
+#G #(P<
+:
+	adminUser-DmWebPlatform.Domain.Entities.ApplicationUser2	Email.getâÜ
+#* #(W+
+%20$System.Threading.Tasks.Task<TResult>"KMicrosoft.AspNet.Identity.UserManager<TUser, TKey>.FindByEmailAsync(string)*I
+#* #(5=
+;
+userManager,Microsoft.AspNet.Identity.UserManager<TUser>*
+#G #(V
+
+%19string2FindByEmailAsync(string)à
+Ö
+# #(WB
+existingAdminUser-DmWebPlatform.Domain.Entities.ApplicationUser"__id*/-
++
+%20$System.Threading.Tasks.Task<TResult>ë
+é
+% %()
+%21bool"	__compare*
+==*P
+% %(!D
+B
+existingAdminUser-DmWebPlatform.Domain.Entities.ApplicationUser*
+%% %() *
+12
+14*¨
+12( )(3·ﬁ
+(2 ((c+
+%22$System.Threading.Tasks.Task<TResult>"MMicrosoft.AspNet.Identity.UserManager<TUser, TKey>.CreateAsync(TUser, string)*I
+(2 ((==
+;
+userManager,Microsoft.AspNet.Identity.UserManager<TUser>*H
+(J ((S<
+:
+	adminUser-DmWebPlatform.Domain.Entities.ApplicationUser*%
+(U ((b
+
+adminPasswordstring2CreateAsync(TUser, string)á
+Ñ
+( ((cA
+createAdminUserResult(Microsoft.AspNet.Identity.IdentityResult"__id*/-
++
+%22$System.Threading.Tasks.Task<TResult>£
+†
+) )(3
+%23bool"6Microsoft.AspNet.Identity.IdentityResult.Succeeded.get*O
+) )()C
+A
+createAdminUserResult(Microsoft.AspNet.Identity.IdentityResult*
+13
+14*å
+13, ,(L «
+,5 ,(A
+%24string"ZMicrosoft.AspNet.Identity.EntityFramework.IdentityUser<TKey, TLogin, TRole, TClaim>.Id.get*H
+,5 ,(><
+:
+	adminUser-DmWebPlatform.Domain.Entities.ApplicationUser2Id.get®•
+, ,(K+
+%25$System.Threading.Tasks.Task<TResult>"OMicrosoft.AspNet.Identity.UserManager<TUser, TKey>.AddToRoleAsync(TKey, string)*I
+, ,(%=
+;
+userManager,Microsoft.AspNet.Identity.UserManager<TUser>*
+,5 ,(A
+
+%24string*
+,C ,(J	
+Admin2AddToRoleAsync(TKey, string)*
+14*A
+14/	 /(	"1
+/ /(	%
+#
+%retSystem.Threading.Tasks.Task:6
+	, 	(L*
+serviceProviderSystem.IServiceProviderB"
+DmWebPlatform.API.SeedData„2
+bDmWebPlatform.API.Controllers.EventController.UpdateEvent(int, DmWebPlatform.Domain.DTOs.EventDto)Z
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.csM) M(4"0*ï
+0I I(/
+-
+M) M(4
+%0"__entrypoint*
+	
+idintS
+Q
+M) M(47
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"	
+Idint"__entrypointX
+V
+M) M(4<
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Namestring"__entrypoint\
+Z
+M) M(4@
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Categorystring"__entrypointY
+W
+M) M(4=
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Placestring"__entrypointa
+_
+M) M(4E
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+DateSystem.DateOnly"__entrypointa
+_
+M) M(4E
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+TimeSystem.TimeOnly"__entrypoint_
+]
+M) M(4C
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Descriptionstring"__entrypointb
+`
+M) M(4F
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+AdditionalInfostring"__entrypointZ
+X
+M) M(4>
+*
+item"DmWebPlatform.Domain.DTOs.EventDto"
+Imagesstring"__entrypoint
+}
+I	 I(#
+%1"
+__annotate*PNL
+JMicrosoft.AspNetCore.Authorization.AuthorizeAttribute.AuthorizeAttribute()*
+	
+idintw
+u
+J	 J(.
+%2"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)*
+	
+idintè
+å
+K	 K(=
+%3"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+	
+idintè
+å
+L	 L(>
+%4"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+	
+idintM
+K
+M5 M(;	
+idint"__annotation*
+
+%1*
+
+%2*
+
+%3*
+
+%4°
+û
+I	 I(#
+%5"
+__annotate*PNL
+JMicrosoft.AspNetCore.Authorization.AuthorizeAttribute.AuthorizeAttribute()*.,
+*
+item"DmWebPlatform.Domain.DTOs.EventDtoô
+ñ
+J	 J(.
+%6"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)*.,
+*
+item"DmWebPlatform.Domain.DTOs.EventDto∞
+≠
+K	 K(=
+%7"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*.,
+*
+item"DmWebPlatform.Domain.DTOs.EventDto∞
+≠
+L	 L(>
+%8"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*.,
+*
+item"DmWebPlatform.Domain.DTOs.EventDton
+l
+M= M(J*
+item"DmWebPlatform.Domain.DTOs.EventDto"__annotation*
+
+%5*
+
+%6*
+
+%7*
+
+%8*
+1*ı
+1O O(|
+z
+O O(	
+%9int")DmWebPlatform.Domain.DTOs.EventDto.Id.get*8
+O O(,
+*
+item"DmWebPlatform.Domain.DTOs.EventDto`
+^
+O O(
+%10bool"	__compare*
+!=*
+O O(
+	
+idint*
+O O(
+	
+%9int*
+2
+3*¨
+2Q Q(6˘ˆ
+Q Q(66
+%11/Microsoft.AspNetCore.Mvc.BadRequestObjectResult";Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object?)*=
+Q Q(!1/
+-DmWebPlatform.API.Controllers.EventController*!
+Q" Q(5
+Event ID mismatch2BadRequest(object?)r
+p
+Q Q(6
+%12void"__asp_net_controller_return*:8
+6
+%11/Microsoft.AspNetCore.Mvc.BadRequestObjectResult¶
+£
+Q Q(6K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*D
+Q Q(68
+6
+%11/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*
+14*¨
+3T T(-óî
+T T(,"
+%13System.Threading.Tasks.Task"iDmWebPlatform.Infrastructure.Interfaces.Services.IEventService.Update(DmWebPlatform.Domain.DTOs.EventDto)*í
+T T(Ö*Ç/
+-DmWebPlatform.API.Controllers.EventController"O
+_eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService*8
+T' T(+,
+*
+item"DmWebPlatform.Domain.DTOs.EventDto2*Update(DmWebPlatform.Domain.DTOs.EventDto)*
+4*¡
+4W W(≠
+™
+W W(-
+%14&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*=
+W W(1/
+-DmWebPlatform.API.Controllers.EventControllerz
+x
+W W(3
+	%capture0&System.Security.Claims.ClaimsPrincipal"__id*1/
+-
+%14&System.Security.Claims.ClaimsPrincipal*
+5
+8*ï
+5W W(Còï
+W W(C#
+%15System.Security.Claims.Claim"8System.Security.Claims.ClaimsPrincipal.FindFirst(string)*A
+W W(5
+3
+	%capture0&System.Security.Claims.ClaimsPrincipal*T
+W) W(BHF
+Dhttp://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier2FindFirst(string)f
+d
+W W(C)
+	%capture1System.Security.Claims.Claim"__id*'%
+#
+%15System.Security.Claims.Claim*
+6*
+6W W(C*
+7
+8*Ã
+7WD W(J|
+z
+WD W(J
+%16string"&System.Security.Claims.Claim.Value.get*7
+W W(C+
+)
+	%capture1System.Security.Claims.Claim:
+8
+WD W(J
+	%capture2string"__id*
+
+%16string*
+9*A
+8W W(J-
++
+W W(J
+	%capture2string"__id* *
+9*
+9W W(J*
+10
+11*V
+10W W(J@
+>
+W W(J
+	%capture3string"__id*
+
+	%capture2string*
+12*N
+11WN W(Y8
+6
+WN W(Y
+	%capture3string"__id*
+	Anonymous*
+12*S
+12W W(Y=
+;
+W W(Y
+userIdstring"__id*
+
+	%capture3string*
+13*ß	
+13X Z(}
+{
+Xi X(p
+
+%17int")DmWebPlatform.Domain.DTOs.EventDto.Id.get*8
+Xi X(m,
+*
+item"DmWebPlatform.Domain.DTOs.EventDtoh
+f
+XO X(r
+%18string"__concat*'
+XQ X(h
+Updated event with ID: *
+Xh X(q
+
+
+%17int÷”
+X X(s"
+%19System.Threading.Tasks.Task"åDmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService.LogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)*ò
+X X("ã*à/
+-DmWebPlatform.API.Controllers.EventController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService*
+X2 X(M2*
+XO X(r
+
+%18string2JLogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)øº
+Z Z(/
+%20(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*=
+Z Z(1/
+-DmWebPlatform.API.Controllers.EventController2NoContent()k
+i
+Z Z(
+%21void"__asp_net_controller_return*31
+/
+%20(Microsoft.AspNetCore.Mvc.NoContentResultü
+ú
+Z Z(K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+Z Z(1
+/
+%20(Microsoft.AspNetCore.Mvc.NoContentResult*
+14*i
+14[	 [(	"Y
+[ [(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:
+M5 M(;	
+idint:6
+M= M(J*
+item"DmWebPlatform.Domain.DTOs.EventDtoB1/
+-DmWebPlatform.API.Controllers.EventController¯
+
+7DmWebPlatform.API.Controllers.UserController.GetRoles()Y
+OC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\UserController.csB B(%"0*4
+0@ @( 
+
+B B(%
+%0"__entrypoint*
+1*©
+1D E(¯ı
+D D(*
+%1System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.RoleManager<TRole>.Roles.get*Ä
+D D($t*r.
+,DmWebPlatform.API.Controllers.UserController"@
+_roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>2	Roles.get≈
+¬
+D D(3(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)* *-
+D D(*!
+
+%1System.Linq.IQueryable<T>m
+k
+D D(3+
+roles"System.Collections.Generic.List<T>"__id*,*
+(
+%2"System.Collections.Generic.List<T>˜Ù
+E E(-
+%3'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*<
+E E(0.
+,DmWebPlatform.API.Controllers.UserController*9
+E E(-
++
+roles"System.Collections.Generic.List<T>2Ok(object?)h
+f
+E E(
+
+%4void"__asp_net_controller_return*1/
+-
+%3'Microsoft.AspNetCore.Mvc.OkObjectResult
+}
+E E(.
+%ret&Microsoft.AspNetCore.Mvc.IActionResult"__id*;
+E E(/
+-
+%3'Microsoft.AspNetCore.Mvc.OkObjectResult*
+2*K
+2F	 F(	"<
+F F(	0
+.
+%ret&Microsoft.AspNetCore.Mvc.IActionResultB0.
+,DmWebPlatform.API.Controllers.UserControllerË
+pDmWebPlatform.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext)a
+WC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Middleware\ErrorHandlingMiddleware.cs ()"0*
+0 (*
+1*Ù
+1  !(>Ω∫
+   (,
+%0&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*>
+   (2
+0
+context%Microsoft.AspNetCore.Http.HttpContext2Response.get§°
+   (Q	
+%1int"5Microsoft.AspNetCore.Http.HttpResponse.StatusCode.set*:
+   (.
+,
+%0&Microsoft.AspNetCore.Http.HttpResponse*2Ù2StatusCode.setΩ∫
+! !(,
+%2&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*>
+! !(2
+0
+context%Microsoft.AspNetCore.Http.HttpContext2Response.get∏µ
+! !(=
+%3string"6Microsoft.AspNetCore.Http.HttpResponse.ContentType.set*:
+! !(.
+,
+%2&Microsoft.AspNetCore.Http.HttpResponse*
+application/json2ContentType.set*
+2*π
+2# #(]_
+]
+#+ #(]
+	%capture0string"__id*642
+0An error occurred while processing your request.VT
+# #(_&
+%4 <anonymous type: string message>" <anonymous type: string message>l
+j
+# #(_,
+response <anonymous type: string message>"__id**(
+&
+%4 <anonymous type: string message>*
+3*å
+3$ $(UΩ∫
+$ $(#,
+%5&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*>
+$ $(2
+0
+context%Microsoft.AspNetCore.Http.HttpContext2Response.getì
+ê
+$/ $(T
+%6string"4Newtonsoft.Json.JsonConvert.SerializeObject(object?)* *:
+$K $(S.
+,
+response <anonymous type: string message>∑
+¥
+$ $(U!
+%7System.Threading.Tasks.Task"ñMicrosoft.AspNetCore.Http.HttpResponseWritingExtensions.WriteAsync(Microsoft.AspNetCore.Http.HttpResponse, string, System.Threading.CancellationToken)* *:
+$ $(#.
+,
+%5&Microsoft.AspNetCore.Http.HttpResponse*
+$/ $(T
+
+%6string*
+$ $(U h
+f
+$ $(U#
+%retSystem.Threading.Tasks.Task"__id*/
+$ $(U#
+!
+%7System.Threading.Tasks.Task*
+4*@
+4%	 %(	"1
+% %(	%
+#
+%retSystem.Threading.Tasks.Task:<
+* (=0
+context%Microsoft.AspNetCore.Http.HttpContextB86
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddlewareÙ(
+_DmWebPlatform.API.Controllers.UserController.AssignRole(DmWebPlatform.API.Models.UserRoleModel)Y
+OC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\UserController.csK) K(3"0*ﬂ	
+0I I(p
+n
+K) K(3T
+/
+model&DmWebPlatform.API.Models.UserRoleModel"!
+<UserId>k__BackingFieldstring"__entrypoint_
+]
+K) K(3C
+/
+model&DmWebPlatform.API.Models.UserRoleModel"
+UserIdstring"__entrypointn
+l
+K) K(3R
+/
+model&DmWebPlatform.API.Models.UserRoleModel"
+<Role>k__BackingFieldstring"__entrypoint]
+[
+K) K(3A
+/
+model&DmWebPlatform.API.Models.UserRoleModel"
+Rolestring"__entrypointr
+p
+K) K(3V
+/
+model&DmWebPlatform.API.Models.UserRoleModel"#
+<UserName>k__BackingFieldstring"__entrypointa
+_
+K) K(3E
+/
+model&DmWebPlatform.API.Models.UserRoleModel"
+UserNamestring"__entrypoint†
+ù
+I	 I(
+%0"
+__annotate*JHF
+DMicrosoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute(string)*31
+/
+model&DmWebPlatform.API.Models.UserRoleModel¶
+£
+J	 J(#
+%1"
+__annotate*PNL
+JMicrosoft.AspNetCore.Authorization.AuthorizeAttribute.AuthorizeAttribute()*31
+/
+model&DmWebPlatform.API.Models.UserRoleModelö
+ó
+K5 K(=
+%2"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*31
+/
+model&DmWebPlatform.API.Models.UserRoleModeli
+g
+K4 K(R/
+model&DmWebPlatform.API.Models.UserRoleModel"__annotation*
+
+%0*
+
+%1*
+
+%2*
+1*™
+1M N(è
+å
+M: M(H
+%3string"3DmWebPlatform.API.Models.UserRoleModel.UserName.get*=
+M: M(?1
+/
+model&DmWebPlatform.API.Models.UserRoleModelB
+@
+M: M(H
+%4string"__fromBodyAnnotation*
+
+%3stringª∏
+M M(I*
+%5$System.Threading.Tasks.Task<TResult>"HMicrosoft.AspNetCore.Identity.UserManager<TUser>.FindByNameAsync(string)*Ä
+M M()t*r.
+,DmWebPlatform.API.Controllers.UserController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*
+M: M(H
+
+%4string2FindByNameAsync(string)y
+w
+M M(I5
+user-DmWebPlatform.Domain.Entities.ApplicationUser"__id*.,
+*
+%5$System.Threading.Tasks.Task<TResult>É
+Ä
+N N(
+
+%6bool"	__compare*
+==*C
+N N(7
+5
+user-DmWebPlatform.Domain.Entities.ApplicationUser*
+N N( *
+2
+3*ô
+2N% N(?ÓÎ
+N% N(?3
+%7-Microsoft.AspNetCore.Mvc.NotFoundObjectResult"9Microsoft.AspNetCore.Mvc.ControllerBase.NotFound(object?)*<
+N% N(-0.
+,DmWebPlatform.API.Controllers.UserController*
+N. N(>
+User not found2NotFound(object?)n
+l
+N% N(?
+
+%8void"__asp_net_controller_return*75
+3
+%7-Microsoft.AspNetCore.Mvc.NotFoundObjectResult£
+†
+N% N(?K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*A
+N% N(?5
+3
+%7-Microsoft.AspNetCore.Mvc.NotFoundObjectResult*
+6*ï
+3P Q( ã
+à
+PA P(K
+%9string"/DmWebPlatform.API.Models.UserRoleModel.Role.get*=
+PA P(F1
+/
+model&DmWebPlatform.API.Models.UserRoleModelC
+A
+PA P(K
+%10string"__fromBodyAnnotation*
+
+%9stringéã
+P P(L+
+%11$System.Threading.Tasks.Task<TResult>"NMicrosoft.AspNetCore.Identity.UserManager<TUser>.AddToRoleAsync(TUser, string)*Ä
+P P(+t*r.
+,DmWebPlatform.API.Controllers.UserController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*C
+P; P(?7
+5
+user-DmWebPlatform.Domain.Entities.ApplicationUser*
+PA P(K
+
+%10string2AddToRoleAsync(TUser, string){
+y
+P P(L6
+result,Microsoft.AspNetCore.Identity.IdentityResult"__id*/-
++
+%11$System.Threading.Tasks.Task<TResult>ú
+ô
+Q Q( 
+%12bool":Microsoft.AspNetCore.Identity.IdentityResult.Succeeded.get*D
+Q Q(8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResult*
+4
+5*ã
+4S S(7ÈÊ
+S S(7.
+%13'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*<
+S S(0.
+,DmWebPlatform.API.Controllers.UserController**
+S S(6
+Role assigned successfully2Ok(object?)j
+h
+S S(7
+%14void"__asp_net_controller_return*20
+.
+%13'Microsoft.AspNetCore.Mvc.OkObjectResultû
+õ
+S S(7K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*<
+S S(70
+.
+%13'Microsoft.AspNetCore.Mvc.OkObjectResult*
+6*à
+5V V(,æ
+ª
+V V(+0
+%15)System.Collections.Generic.IEnumerable<T>"7Microsoft.AspNetCore.Identity.IdentityResult.Errors.get*D
+V V($8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResultïí
+V V(,6
+%16/Microsoft.AspNetCore.Mvc.BadRequestObjectResult";Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object?)*<
+V V(0.
+,DmWebPlatform.API.Controllers.UserController*>
+V V(+2
+0
+%15)System.Collections.Generic.IEnumerable<T>2BadRequest(object?)r
+p
+V V(,
+%17void"__asp_net_controller_return*:8
+6
+%16/Microsoft.AspNetCore.Mvc.BadRequestObjectResult¶
+£
+V V(,K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*D
+V V(,8
+6
+%16/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*
+6*h
+6W	 W(	"Y
+W W(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:;
+K4 K(R/
+model&DmWebPlatform.API.Models.UserRoleModelB0.
+,DmWebPlatform.API.Controllers.UserController¯
+>DmWebPlatform.API.Controllers.EventController.DeleteEvent(int)Z
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.csa) a(4"0*ö
+0^ ^(/
+-
+a) a(4
+%0"__entrypoint*
+	
+idint
+}
+^	 ^(#
+%1"
+__annotate*PNL
+JMicrosoft.AspNetCore.Authorization.AuthorizeAttribute.AuthorizeAttribute()*
+	
+idint}
+{
+_	 _(1
+%2"
+__annotate*NLJ
+HMicrosoft.AspNetCore.Mvc.HttpDeleteAttribute.HttpDeleteAttribute(string)*
+	
+idintè
+å
+`	 `(=
+%3"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+	
+idintC
+A
+a5 a(;	
+idint"__annotation*
+
+%1*
+
+%2*
+
+%3*
+1*Ã
+1c c(+∑¥
+c c(*!
+%4System.Threading.Tasks.Task"JDmWebPlatform.Infrastructure.Interfaces.Services.IEventService.Delete(int)*í
+c c(Ö*Ç/
+-DmWebPlatform.API.Controllers.EventController"O
+_eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService*
+c' c()
+	
+idint2Delete(int)*
+2*ø
+2f f(¨
+©
+f f(,
+%5&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*=
+f f(1/
+-DmWebPlatform.API.Controllers.EventControllery
+w
+f f(3
+	%capture0&System.Security.Claims.ClaimsPrincipal"__id*0.
+,
+%5&System.Security.Claims.ClaimsPrincipal*
+3
+6*ì
+3f f(Cóî
+f f(C"
+%6System.Security.Claims.Claim"8System.Security.Claims.ClaimsPrincipal.FindFirst(string)*A
+f f(5
+3
+	%capture0&System.Security.Claims.ClaimsPrincipal*T
+f) f(BHF
+Dhttp://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier2FindFirst(string)e
+c
+f f(C)
+	%capture1System.Security.Claims.Claim"__id*&$
+"
+%6System.Security.Claims.Claim*
+4*
+4f f(C*
+5
+6* 
+5fD f(J{
+y
+fD f(J
+%7string"&System.Security.Claims.Claim.Value.get*7
+f f(C+
+)
+	%capture1System.Security.Claims.Claim9
+7
+fD f(J
+	%capture2string"__id*
+
+%7string*
+7*A
+6f f(J-
++
+f f(J
+	%capture2string"__id* *
+7*
+7f f(J*
+8
+9*U
+8f f(J@
+>
+f f(J
+	%capture3string"__id*
+
+	%capture2string*
+10*M
+9fN f(Y8
+6
+fN f(Y
+	%capture3string"__id*
+	Anonymous*
+10*S
+10f f(Y=
+;
+f f(Y
+userIdstring"__id*
+
+	%capture3string*
+11*§
+11g i(f
+d
+gO g(m
+%8string"__concat*'
+gQ g(h
+Deleted event with ID: *
+gh g(l
+	
+idint‘—
+g g(n!
+%9System.Threading.Tasks.Task"åDmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService.LogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)*ò
+g g("ã*à/
+-DmWebPlatform.API.Controllers.EventController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService*
+g2 g(M2*
+gO g(m
+
+%8string2JLogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)øº
+i i(/
+%10(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*=
+i i(1/
+-DmWebPlatform.API.Controllers.EventController2NoContent()k
+i
+i i(
+%11void"__asp_net_controller_return*31
+/
+%10(Microsoft.AspNetCore.Mvc.NoContentResultü
+ú
+i i(K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+i i(1
+/
+%10(Microsoft.AspNetCore.Mvc.NoContentResult*
+12*i
+12j	 j(	"Y
+j j(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:
+a5 a(;	
+idintB1/
+-DmWebPlatform.API.Controllers.EventController÷-
+BDmWebPlatform.API.Controllers.EventController.SearchEvents(string)Z
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.API\Controllers\EventController.csq9 q(E"0*ü
+0m m(:
+8
+q9 q(E
+%0"__entrypoint*
+
+
+searchTermstringÉ
+Ä
+m	 m(
+%1"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
+
+
+searchTermstringß
+§
+n	 n(O
+%2"
+__annotate*ljh
+fMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(System.Type, int)*
+
+
+searchTermstringö
+ó
+o	 o(>
+%3"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+
+
+searchTermstringö
+ó
+p	 p(<
+%4"
+__annotate*_][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+
+
+searchTermstringÄ
+~
+qG q(P
+%5"
+__annotate*FDB
+@Microsoft.AspNetCore.Mvc.FromQueryAttribute.FromQueryAttribute()*
+
+
+searchTermstringb
+`
+qF q(c
+
+searchTermstring"__annotation*
+
+%1*
+
+%2*
+
+%3*
+
+%4*
+
+%5*
+1*x
+1s s(0a
+_
+s s(0
+
+%6bool"string.IsNullOrEmpty(string?)* *"
+s% s(/
+
+
+searchTermstring*
+2
+3*à
+2u u(AÉÄ
+u u(A5
+%7/Microsoft.AspNetCore.Mvc.BadRequestObjectResult";Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object?)*=
+u u(!1/
+-DmWebPlatform.API.Controllers.EventController*,
+u" u(@ 
+Search term cannot be empty.2BadRequest(object?)Ï
+È
+u u(Aë
+%retàSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IList<DmWebPlatform.Domain.DTOs.EventDto>>>"__id*C
+u u(A7
+5
+%7/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*
+16*Ó
+3x z(Á‰
+x x(J*
+%8$System.Threading.Tasks.Task<TResult>"XDmWebPlatform.Infrastructure.Interfaces.Services.IEventService.SearchEventsAsync(string)*í
+x x(,Ö*Ç/
+-DmWebPlatform.API.Controllers.EventController"O
+_eventService>DmWebPlatform.Infrastructure.Interfaces.Services.IEventService*"
+x? x(I
+
+
+searchTermstring2SearchEventsAsync(string)q
+o
+x x(J-
+events#System.Collections.Generic.IList<T>"__id*.,
+*
+%8$System.Threading.Tasks.Task<TResult>z
+x
+z z(
+
+%9bool"	__compare*
+==*;
+z z(/
+-
+events#System.Collections.Generic.IList<T>*
+z z( *
+4
+5*À
+4z# z(/≥
+∞
+z# z(/
+%10bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)* *;
+z# z()/
+-
+events#System.Collections.Generic.IList<T>*
+5
+6*ˇ
+5| |(<˚¯
+| |(<4
+%11-Microsoft.AspNetCore.Mvc.NotFoundObjectResult"9Microsoft.AspNetCore.Mvc.ControllerBase.NotFound(object?)*=
+| |(1/
+-DmWebPlatform.API.Controllers.EventController*)
+|  |(;
+No matching events found.2NotFound(object?)Î
+Ë
+| |(<ë
+%retàSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IList<DmWebPlatform.Domain.DTOs.EventDto>>>"__id*B
+| |(<6
+4
+%11-Microsoft.AspNetCore.Mvc.NotFoundObjectResult*
+16* 
+6
+Ä Ä(±
+Æ
+
+Ä Ä(-
+%12&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*?
+
+Ä Ä(1/
+-DmWebPlatform.API.Controllers.EventController|
+z
+
+Ä Ä(3
+	%capture0&System.Security.Claims.ClaimsPrincipal"__id*1/
+-
+%12&System.Security.Claims.ClaimsPrincipal*
+7
+10*ü
+7
+Ä Ä(Cûõ
+
+Ä Ä(C#
+%13System.Security.Claims.Claim"8System.Security.Claims.ClaimsPrincipal.FindFirst(string)*C
+
+Ä Ä(5
+3
+	%capture0&System.Security.Claims.ClaimsPrincipal*V
+
+Ä) Ä(BHF
+Dhttp://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier2FindFirst(string)h
+f
+
+Ä Ä(C)
+	%capture1System.Security.Claims.Claim"__id*'%
+#
+%13System.Security.Claims.Claim*
+8*
+8
+Ä Ä(C*
+9
+10*÷
+9
+ÄD Ä(JÄ
+~
+
+ÄD Ä(J
+%14string"&System.Security.Claims.Claim.Value.get*9
+
+Ä Ä(C+
+)
+	%capture1System.Security.Claims.Claim<
+:
+
+ÄD Ä(J
+	%capture2string"__id*
+
+%14string*
+11*G
+10
+Ä Ä(J/
+-
+
+Ä Ä(J
+	%capture2string"__id* *
+11*
+11
+Ä Ä(J*
+12
+13*Z
+12
+Ä Ä(JB
+@
+
+Ä Ä(J
+	%capture3string"__id*
+
+	%capture2string*
+14*R
+13
+ÄN Ä(Y:
+8
+
+ÄN Ä(Y
+	%capture3string"__id*
+	Anonymous*
+14*W
+14
+Ä Ä(Y?
+=
+
+Ä Ä(Y
+userIdstring"__id*
+
+	%capture3string*
+15*Í
+15
+Å É(Ä
+~
+
+ÅO Å(}
+%15string"__concat*1
+
+ÅQ Å(p#!
+Searched for events with term: *$
+
+Åp Å(|
+
+
+searchTermstringﬁ€
+
+Å Å(~"
+%16System.Threading.Tasks.Task"åDmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService.LogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)*ö
+
+Å Å("ã*à/
+-DmWebPlatform.API.Controllers.EventController"U
+_auditLogServiceADmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService*
+
+Å2 Å(M2*
+
+ÅO Å(}
+
+%15string2JLogActionAsync(DmWebPlatform.Infrastructure.Enums.AuditActionType, string)Å˛
+
+É É(.
+%17'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*?
+
+É É(1/
+-DmWebPlatform.API.Controllers.EventController*=
+
+É É(/
+-
+events#System.Collections.Generic.IList<T>2Ok(object?)È
+Ê
+
+É É(ë
+%retàSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IList<DmWebPlatform.Domain.DTOs.EventDto>>>"__id*>
+
+É É(0
+.
+%17'Microsoft.AspNetCore.Mvc.OkObjectResult*
+16*∂
+16
+Ñ	 Ñ(	"£
+
+Ñ Ñ(	î
+ë
+%retàSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IList<DmWebPlatform.Domain.DTOs.EventDto>>>: 
+qF q(c
+
+searchTermstringB1/
+-DmWebPlatform.API.Controllers.EventController

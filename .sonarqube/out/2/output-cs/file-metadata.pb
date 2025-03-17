@@ -1,0 +1,10 @@
+ö
+éC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\obj\Debug\net8.0\DmWebPlatform.Notifications.DataAccess.AssemblyInfo.csutf-8í
+ÜC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8ú
+êC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\obj\Debug\net8.0\DmWebPlatform.Notifications.DataAccess.GlobalUsings.g.csutf-8o
+fC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\NotificationDbContextFactory.csutf-8h
+_C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\NotificationDbContext.csutf-8Ç
+wC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\Migrations\NotificationDbContextModelSnapshot.csutf-8Ö
+zC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\Migrations\20240904084941_InitialCreate.Designer.csutf-8z
+qC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\Migrations\20240904084941_InitialCreate.csutf-8\
+SC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.DataAccess\DbFactory.csutf-8

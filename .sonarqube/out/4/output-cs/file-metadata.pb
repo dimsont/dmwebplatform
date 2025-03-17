@@ -1,0 +1,9 @@
+r
+gC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\obj\Debug\net8.0\DmWebPlatform.UI.RazorAssemblyInfo.csutf-8m
+bC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\obj\Debug\net8.0\DmWebPlatform.UI.AssemblyInfo.csutf-8D
+;C:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\Program.csutf-8{
+pC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8o
+dC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\obj\Debug\net8.0\DmWebPlatform.UI.GlobalUsings.g.csutf-8O
+FC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\Pages\Error.cshtml.csutf-8Q
+HC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\Models\RegisterModel.csutf-8N
+EC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\Models\LoginModel.csutf-8

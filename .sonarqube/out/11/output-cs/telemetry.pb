@@ -1,0 +1,1 @@
+€RjC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Tests\DmWebPlatform.Notifications.Tests.csproj¢net8.0òCSharp12

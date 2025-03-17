@@ -1,0 +1,72 @@
+1
+Programobject
+	Program()Program.Program()s
+$DmWebPlatform.API.Models.AppSettingsobjectC
+AppSettings()2DmWebPlatform.API.Models.AppSettings.AppSettings()˜
+#DmWebPlatform.API.Models.LoginModelobject@
+LoginModel()0DmWebPlatform.API.Models.LoginModel.LoginModel()@
+UserName.get0DmWebPlatform.API.Models.LoginModel.UserName.get@
+UserName.set0DmWebPlatform.API.Models.LoginModel.UserName.set@
+Password.get0DmWebPlatform.API.Models.LoginModel.Password.get@
+Password.set0DmWebPlatform.API.Models.LoginModel.Password.set≥
+&DmWebPlatform.API.Models.RegisterModelobjectI
+RegisterModel()6DmWebPlatform.API.Models.RegisterModel.RegisterModel()C
+UserName.get3DmWebPlatform.API.Models.RegisterModel.UserName.getC
+UserName.set3DmWebPlatform.API.Models.RegisterModel.UserName.set=
+	Email.get0DmWebPlatform.API.Models.RegisterModel.Email.get=
+	Email.set0DmWebPlatform.API.Models.RegisterModel.Email.setC
+Password.get3DmWebPlatform.API.Models.RegisterModel.Password.getC
+Password.set3DmWebPlatform.API.Models.RegisterModel.Password.setQ
+ConfirmPassword.get:DmWebPlatform.API.Models.RegisterModel.ConfirmPassword.getQ
+ConfirmPassword.set:DmWebPlatform.API.Models.RegisterModel.ConfirmPassword.setY
+DmWebPlatform.API.SeedDataobject3
+
+SeedData()%DmWebPlatform.API.SeedData.SeedData()Å
+&DmWebPlatform.API.Models.UserRoleModelobjectI
+UserRoleModel()6DmWebPlatform.API.Models.UserRoleModel.UserRoleModel()?
+
+UserId.get1DmWebPlatform.API.Models.UserRoleModel.UserId.get?
+
+UserId.set1DmWebPlatform.API.Models.UserRoleModel.UserId.set;
+Role.get/DmWebPlatform.API.Models.UserRoleModel.Role.get;
+Role.set/DmWebPlatform.API.Models.UserRoleModel.Role.setC
+UserName.get3DmWebPlatform.API.Models.UserRoleModel.UserName.getC
+UserName.set3DmWebPlatform.API.Models.UserRoleModel.UserName.set≥
++DmWebPlatform.API.Models.TokenResponseModelobjectX
+TokenResponseModel()@DmWebPlatform.API.Models.TokenResponseModel.TokenResponseModel()B
+	Token.get5DmWebPlatform.API.Models.TokenResponseModel.Token.getB
+	Token.set5DmWebPlatform.API.Models.TokenResponseModel.Token.setL
+Expiration.get:DmWebPlatform.API.Models.TokenResponseModel.Expiration.getL
+Expiration.set:DmWebPlatform.API.Models.TokenResponseModel.Expiration.setä
+4DmWebPlatform.API.Middleware.ErrorHandlingMiddlewareobject˜
+ûErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate, Microsoft.Extensions.Logging.ILogger<DmWebPlatform.API.Middleware.ErrorHandlingMiddleware>)”DmWebPlatform.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate, Microsoft.Extensions.Logging.ILogger<DmWebPlatform.API.Middleware.ErrorHandlingMiddleware>)ù
+2InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)gDmWebPlatform.API.Middleware.ErrorHandlingMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)Ø
+;HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext)pDmWebPlatform.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext)È
+1DmWebPlatform.API.Controllers.AuditLogsController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectã
+jAuditLogsController(DmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService, AutoMapper.IMapper)úDmWebPlatform.API.Controllers.AuditLogsController.AuditLogsController(DmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService, AutoMapper.IMapper)R
+GetAuditLogs()@DmWebPlatform.API.Controllers.AuditLogsController.GetAuditLogs()†
+5CreateAuditLog(DmWebPlatform.Domain.DTOs.AuditLogDto)gDmWebPlatform.API.Controllers.AuditLogsController.CreateAuditLog(DmWebPlatform.Domain.DTOs.AuditLogDto)∆
+
+,DmWebPlatform.API.Controllers.UserController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÈ
+€UserController(Microsoft.AspNetCore.Identity.UserManager<DmWebPlatform.Domain.Entities.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<DmWebPlatform.Domain.Entities.ApplicationUser>, DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService, Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>)àDmWebPlatform.API.Controllers.UserController.UserController(Microsoft.AspNetCore.Identity.UserManager<DmWebPlatform.Domain.Entities.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<DmWebPlatform.Domain.Entities.ApplicationUser>, DmWebPlatform.Infrastructure.Interfaces.Services.ITokenService, Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>)ë
+0Register(DmWebPlatform.API.Models.RegisterModel)]DmWebPlatform.API.Controllers.UserController.Register(DmWebPlatform.API.Models.RegisterModel)Ö
+*Login(DmWebPlatform.API.Models.LoginModel)WDmWebPlatform.API.Controllers.UserController.Login(DmWebPlatform.API.Models.LoginModel)E
+
+GetRoles()7DmWebPlatform.API.Controllers.UserController.GetRoles()ï
+2AssignRole(DmWebPlatform.API.Models.UserRoleModel)_DmWebPlatform.API.Controllers.UserController.AssignRole(DmWebPlatform.API.Models.UserRoleModel)¡
+-DmWebPlatform.API.Controllers.EventController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÿ
+íEventController(DmWebPlatform.Infrastructure.Interfaces.Services.IEventService, DmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService)¿DmWebPlatform.API.Controllers.EventController.EventController(DmWebPlatform.Infrastructure.Interfaces.Services.IEventService, DmWebPlatform.Infrastructure.Interfaces.Services.IAuditLogService)N
+GetAllEvents()<DmWebPlatform.API.Controllers.EventController.GetAllEvents()T
+GetEventById(int)?DmWebPlatform.API.Controllers.EventController.GetEventById(int)ê
+/CreateEvent(DmWebPlatform.Domain.DTOs.EventDto)]DmWebPlatform.API.Controllers.EventController.CreateEvent(DmWebPlatform.Domain.DTOs.EventDto)ö
+4UpdateEvent(int, DmWebPlatform.Domain.DTOs.EventDto)bDmWebPlatform.API.Controllers.EventController.UpdateEvent(int, DmWebPlatform.Domain.DTOs.EventDto)R
+DeleteEvent(int)>DmWebPlatform.API.Controllers.EventController.DeleteEvent(int)Z
+SearchEvents(string)BDmWebPlatform.API.Controllers.EventController.SearchEvents(string)¡
+'DmWebPlatform.Infrastructure.UnitOfWorkobject3DmWebPlatform.Infrastructure.Interfaces.IUnitOfWorkSystem.IDisposableà
+.UnitOfWork(DmWebPlatform.DataAccess.DbFactory)VDmWebPlatform.Infrastructure.UnitOfWork.UnitOfWork(DmWebPlatform.DataAccess.DbFactory)î
+4SaveChangesAsync(System.Threading.CancellationToken)\DmWebPlatform.Infrastructure.UnitOfWork.SaveChangesAsync(System.Threading.CancellationToken)>
+	Dispose()1DmWebPlatform.Infrastructure.UnitOfWork.Dispose()F
+Dispose(bool)5DmWebPlatform.Infrastructure.UnitOfWork.Dispose(bool)V
+Repository<TEntity>()=DmWebPlatform.Infrastructure.UnitOfWork.Repository<TEntity>()F
+DbContext.get5DmWebPlatform.Infrastructure.UnitOfWork.DbContext.getF
+DbContext.set5DmWebPlatform.Infrastructure.UnitOfWork.DbContext.set23DmWebPlatform.Infrastructure.Interfaces.IUnitOfWork

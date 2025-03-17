@@ -1,0 +1,1 @@
+|RfC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.API\DmWebPlatform.Notifications.API.csproj¢net8.0òCSharp12

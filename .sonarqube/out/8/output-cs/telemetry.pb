@@ -1,0 +1,1 @@
+hRRC:\Users\Dima\dmwebplatform_git\DmWebPlatform.Service\DmWebPlatform.Service.csproj¢net8.0òCSharp12

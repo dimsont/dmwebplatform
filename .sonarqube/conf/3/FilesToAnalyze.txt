@@ -1,0 +1,7 @@
+﻿C:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\ApplicationDbContext.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\ApplicationDbContextFactory.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\DbFactory.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\Migrations\20241007095912_InitialCreate.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\Migrations\20241007095912_InitialCreate.Designer.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\codefirst.txt

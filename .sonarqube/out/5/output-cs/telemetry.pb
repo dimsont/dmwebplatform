@@ -1,0 +1,1 @@
+’R|C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Notifications.Infrastructure\DmWebPlatform.Notifications.Infrastructure.csproj¢net8.0òCSharp12

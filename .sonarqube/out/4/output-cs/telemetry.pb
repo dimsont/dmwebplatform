@@ -1,0 +1,1 @@
+^RHC:\Users\Dima\dmwebplatform_git\DmWebPlatform.UI\DmWebPlatform.UI.csproj¢net8.0òCSharp12

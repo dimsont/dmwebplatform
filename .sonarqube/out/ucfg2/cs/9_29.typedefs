@@ -1,0 +1,18 @@
+1
+Programobject
+	Program()Program.Program()è
+2DmWebPlatform.Notifications.API.Models.AppSettingsobjectQ
+AppSettings()@DmWebPlatform.Notifications.API.Models.AppSettings.AppSettings()È
+5DmWebPlatform.Notifications.Infrastructure.UnitOfWorkobjectADmWebPlatform.Notifications.Infrastructure.Interfaces.IUnitOfWorkSystem.IDisposable≤
+<UnitOfWork(DmWebPlatform.Notifications.DataAccess.DbFactory)rDmWebPlatform.Notifications.Infrastructure.UnitOfWork.UnitOfWork(DmWebPlatform.Notifications.DataAccess.DbFactory)¢
+4SaveChangesAsync(System.Threading.CancellationToken)jDmWebPlatform.Notifications.Infrastructure.UnitOfWork.SaveChangesAsync(System.Threading.CancellationToken)L
+	Dispose()?DmWebPlatform.Notifications.Infrastructure.UnitOfWork.Dispose()T
+Dispose(bool)CDmWebPlatform.Notifications.Infrastructure.UnitOfWork.Dispose(bool)d
+Repository<TEntity>()KDmWebPlatform.Notifications.Infrastructure.UnitOfWork.Repository<TEntity>()T
+DbContext.getCDmWebPlatform.Notifications.Infrastructure.UnitOfWork.DbContext.getT
+DbContext.setCDmWebPlatform.Notifications.Infrastructure.UnitOfWork.DbContext.set2ADmWebPlatform.Notifications.Infrastructure.Interfaces.IUnitOfWork´
+BDmWebPlatform.Notifications.API.Controllers.NotificationController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectû
+kNotificationController(DmWebPlatform.Notifications.Infrastructure.Interfaces.Services.INotificationService)ÆDmWebPlatform.Notifications.API.Controllers.NotificationController.NotificationController(DmWebPlatform.Notifications.Infrastructure.Interfaces.Services.INotificationService)Ã
+BSubscribe(DmWebPlatform.Notifications.Domain.DTOs.NotificationDto)ÖDmWebPlatform.Notifications.API.Controllers.NotificationController.Subscribe(DmWebPlatform.Notifications.Domain.DTOs.NotificationDto)–
+DUnsubscribe(DmWebPlatform.Notifications.Domain.DTOs.NotificationDto)áDmWebPlatform.Notifications.API.Controllers.NotificationController.Unsubscribe(DmWebPlatform.Notifications.Domain.DTOs.NotificationDto)q
+GetNotifications(int)XDmWebPlatform.Notifications.API.Controllers.NotificationController.GetNotifications(int)

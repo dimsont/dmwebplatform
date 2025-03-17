@@ -1,0 +1,10 @@
+}
+rC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\obj\Debug\net8.0\DmWebPlatform.DataAccess.AssemblyInfo.csutf-8ƒ
+xC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8
+tC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\obj\Debug\net8.0\DmWebPlatform.DataAccess.GlobalUsings.g.csutf-8s
+hC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\Migrations\ApplicationDbContextModelSnapshot.csutf-8w
+lC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\Migrations\20241007095912_InitialCreate.Designer.csutf-8N
+EC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\DbFactory.csutf-8l
+cC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\Migrations\20241007095912_InitialCreate.csutf-8`
+WC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\ApplicationDbContextFactory.csutf-8Y
+PC:\Users\Dima\dmwebplatform_git\DmWebPlatform.DataAccess\ApplicationDbContext.csutf-8

@@ -1,0 +1,31 @@
+í
+7DmWebPlatform.Notifications.Domain.DTOs.NotificationDtoobject^
+NotificationDto()IDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.NotificationDto()H
+Id.get>DmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Id.getH
+Id.set>DmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Id.setR
+EventId.getCDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.EventId.getR
+EventId.setCDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.EventId.setN
+	Email.getADmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Email.getN
+	Email.setADmWebPlatform.Notifications.Domain.DTOs.NotificationDto.Email.setd
+NotificationTime.getLDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.NotificationTime.getd
+NotificationTime.setLDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.NotificationTime.setP
+
+IsSent.getBDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.IsSent.getP
+
+IsSent.setBDmWebPlatform.Notifications.Domain.DTOs.NotificationDto.IsSent.setó
+8DmWebPlatform.Notifications.Domain.Entities.NotificationobjectY
+Notification()GDmWebPlatform.Notifications.Domain.Entities.Notification.Notification()I
+Id.get?DmWebPlatform.Notifications.Domain.Entities.Notification.Id.getI
+Id.set?DmWebPlatform.Notifications.Domain.Entities.Notification.Id.setS
+EventId.getDDmWebPlatform.Notifications.Domain.Entities.Notification.EventId.getS
+EventId.setDDmWebPlatform.Notifications.Domain.Entities.Notification.EventId.setO
+	Email.getBDmWebPlatform.Notifications.Domain.Entities.Notification.Email.getO
+	Email.setBDmWebPlatform.Notifications.Domain.Entities.Notification.Email.sete
+NotificationTime.getMDmWebPlatform.Notifications.Domain.Entities.Notification.NotificationTime.gete
+NotificationTime.setMDmWebPlatform.Notifications.Domain.Entities.Notification.NotificationTime.setQ
+
+IsSent.getCDmWebPlatform.Notifications.Domain.Entities.Notification.IsSent.getQ
+
+IsSent.setCDmWebPlatform.Notifications.Domain.Entities.Notification.IsSent.set§
+1DmWebPlatform.Notifications.Domain.MappingProfileAutoMapper.ProfileobjectV
+MappingProfile()BDmWebPlatform.Notifications.Domain.MappingProfile.MappingProfile()

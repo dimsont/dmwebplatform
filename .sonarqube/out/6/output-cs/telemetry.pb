@@ -1,0 +1,1 @@
+vR`C:\Users\Dima\dmwebplatform_git\DmWebPlatform.Infrastructure\DmWebPlatform.Infrastructure.csproj¢net8.0òCSharp12
