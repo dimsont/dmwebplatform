@@ -1,0 +1,41 @@
+@DmWebPlatform_HostAddress = http://localhost:7135
+
+# Test GET all events
+GET {{DmWebPlatform_HostAddress}}/api/events
+Accept: application/json
+
+###
+
+# Test GET event by ID
+GET {{DmWebPlatform_HostAddress}}/api/events/1
+Accept: application/json
+
+###
+
+# Test POST create new event
+POST {{DmWebPlatform_HostAddress}}/api/events
+Content-Type: application/json
+
+{
+  "name": "New Event",
+  "place": "New Place",
+  "date": "2024-08-15T00:00:00Z"
+}
+
+###
+
+# Test PUT update existing event
+PUT {{DmWebPlatform_HostAddress}}/api/events/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Updated Event",
+  "place": "Updated Place",
+  "date": "2024-08-16T00:00:00Z"
+}
+
+###
+
+# Test DELETE event by ID
+DELETE {{DmWebPlatform_HostAddress}}/api/events/1

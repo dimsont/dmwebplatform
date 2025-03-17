@@ -1,0 +1,16 @@
+Package Manager Console: 
+Add-Migration InitialCreate -StartupProject DmWebPlatform.API
+Update-Database -StartupProject DmWebPlatform.API
+
+hint:
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 8.0.7
+Default project: DmWebPlatform.DataAccess.
+
+
+Another way:
+dotnet tool install --global dotnet-ef
+
+# In your project directory
+dotnet ef migrations add InitialCreate --project DmWebPlatform.API
+dotnet ef migrations add SeedData --project DmWebPlatform.API
+dotnet ef database update --project DmWebPlatform.API

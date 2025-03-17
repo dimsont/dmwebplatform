@@ -1,0 +1,16 @@
+Package Manager Console: 
+Add-Migration InitialCreate -StartupProject DmWebPlatform.Notifications.API
+Update-Database -StartupProject DmWebPlatform.Notifications.API
+
+hint:
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 8.0.7
+Default project: DmWebPlatform.Notifications.DataAccess.
+
+
+Another option:
+dotnet tool install --global dotnet-ef
+
+# In your project directory
+dotnet ef migrations add InitialCreate
+dotnet ef migrations add SeedData
+dotnet ef database update

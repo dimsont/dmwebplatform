@@ -1,0 +1,100 @@
+﻿@page "/create-event"
+@using DmWebPlatform.Domain.Entities
+@inject HttpClient HttpClient
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create Event</PageTitle>
+
+<EditForm Model="eventModel" OnValidSubmit="HandleValidSubmit">
+    <div class="container">
+        <div class="form-group">
+            <label for="name">Name</label>
+            <InputText id="name" class="form-control" @bind-Value="eventModel.Name" placeholder="Enter Name" />
+            <ValidationMessage For="@(() => eventModel.Name)" />
+        </div>
+        <div class="form-group">
+            <label for="category">Category</label>
+            <InputText id="category" class="form-control" @bind-Value="eventModel.Category" placeholder="Enter Category" />
+            <ValidationMessage For="@(() => eventModel.Category)" />
+        </div>
+        <div class="form-group">
+            <label for="place">Place</label>
+            <InputText id="place" class="form-control" @bind-Value="eventModel.Place" placeholder="Enter Place" />
+            <ValidationMessage For="@(() => eventModel.Place)" />
+        </div>
+        <div class="form-group">
+            <label for="date">Date</label>
+            <InputDate id="date" class="form-control" @bind-Value="eventModel.Date" />
+            <ValidationMessage For="@(() => eventModel.Date)" />
+        </div>
+        <div class="form-group">
+            <label for="time">Time</label>
+            <InputText id="time" class="form-control" @bind-Value="timeString" placeholder="Enter Time (hh:mm)" />
+            <ValidationMessage For="@(() => timeString)" />
+        </div>
+        <div class="form-group">
+            <label for="description">Description</label>
+            <InputText id="description" class="form-control" @bind-Value="eventModel.Description" placeholder="Enter Description" />
+            <ValidationMessage For="@(() => eventModel.Description)" />
+        </div>
+        <div class="form-group">
+            <label for="additionalInfo">Additional Info</label>
+            <InputText id="additionalInfo" class="form-control" @bind-Value="eventModel.AdditionalInfo" placeholder="Enter Additional Info" />
+            <ValidationMessage For="@(() => eventModel.AdditionalInfo)" />
+        </div>
+        <div class="form-group">
+            <label for="images">Images</label>
+            <InputText id="images" class="form-control" @bind-Value="eventModel.Images" placeholder="Enter Image Url" />
+            <ValidationMessage For="@(() => eventModel.Images)" />
+        </div>
+        <div class="form-group">
+            <ValidationSummary />
+        </div>
+        <div class="card-footer">
+            <center>
+                <button type="submit" class="btn btn-primary">Create Event</button>
+                <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+            </center>
+        </div>
+    </div>
+</EditForm>
+
+@code {
+    private Event eventModel = new Event();
+    private string timeString = "";
+
+    private async Task HandleValidSubmit()
+    {
+        if (TimeOnly.TryParse(timeString, out TimeOnly parsedTime))
+        {
+            eventModel.Time = parsedTime;
+            try
+            {
+                var response = await HttpClient.PostAsJsonAsync("api/events", eventModel);
+                if (response.IsSuccessStatusCode)
+                {
+                    // Navigate to another page, e.g., index or the event details page
+                    NavigationManager.NavigateTo("/");
+                }
+                else
+                {
+                    // Handle failure
+                    Console.Error.WriteLine("Failed to create event");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.Error.WriteLine($"Error creating event: {ex.Message}");
+            }
+        }
+        else
+        {
+            Console.Error.WriteLine("Invalid time format");
+        }
+    }
+
+    private void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}

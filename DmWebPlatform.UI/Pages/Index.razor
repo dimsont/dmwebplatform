@@ -1,0 +1,239 @@
+﻿@page "/"
+@using System.Text.Json
+@using DmWebPlatform.Domain.Entities
+@using DmWebPlatform.Notifications.Domain.DTOs
+@using System.Text
+@using System.Diagnostics
+@inject HttpClient HttpClient
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject IHttpClientFactory HttpClientFactory
+@inject IJSRuntime JS
+
+<PageTitle>Events</PageTitle>
+
+<div class="container mt-4">
+    @if (isAuthenticated)
+    {
+        <!-- Show event table for authenticated users -->
+        <div class="mb-3 text-end">
+            <button @onclick="CreateEvent" class="btn btn-primary btn-lg shadow-sm">Create Event</button>
+        </div>
+
+        <!-- Event Table -->
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover shadow-sm rounded">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Place</th>
+                        <th>Date</th>
+                        <th>Manage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (events == null)
+                    {
+                        <tr>
+                            <td colspan="4" class="text-center"><em>Loading...</em></td>
+                        </tr>
+                    }
+                    else if (!events.Any())
+                    {
+                        <tr>
+                            <td colspan="4" class="text-center"><em>No events available</em></td>
+                        </tr>
+                    }
+                    else
+                    {
+                        @foreach (var item in events)
+                        {
+                            <tr>
+                                <td>@item.Name</td>
+                                <td>@item.Place</td>
+                                <td>@item.Date.ToString("yyyy-MM-dd")</td>
+                                <td class="text-nowrap">
+                                    <button @onclick="() => EditEvent(item.Id)" class="btn btn-outline-primary btn-sm">Edit</button>
+                                    <button @onclick="() => DeleteEvent(item.Id)" class="btn btn-outline-danger btn-sm me-2">Delete</button>
+                                    <button @onclick="() => SubscribeToEvent(item.Id)" class="btn btn-outline-success btn-sm">Subscribe</button>
+                                    <button @onclick="() => UnsubscribeFromEvent(item.Id)" class="btn btn-outline-warning btn-sm">Unsubscribe</button>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Toast Notification -->
+        @if (!string.IsNullOrEmpty(toastMessage))
+        {
+            <div aria-live="polite" aria-atomic="true" class="position-relative">
+                <div class="toast-container position-fixed bottom-0 end-0 p-3">
+                    <div class="toast show" role="alert" aria-live="assertive" aria-atomic="true" @ref="toastRef">
+                        <div class="toast-header">
+                            <strong class="me-auto">Notification</strong>
+                            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+                        </div>
+                        <div class="toast-body">
+                            @toastMessage
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <!-- Show login/register options for guests -->
+        <div class="text-center" id="welcome-block">
+            <h2>Welcome to the Events Platform</h2>
+            <p>Please <NavLink href="/login">Login</NavLink> or <NavLink href="/register">Register</NavLink> to manage events.</p>
+        </div>
+    }
+</div>
+
+
+@code {
+    private List<Event>? events;
+    private string toastMessage = string.Empty;
+    private ElementReference toastRef;
+    private bool isAuthenticated;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        isAuthenticated = authState.User.Identity.IsAuthenticated;
+
+        if (isAuthenticated)
+        {
+            await LoadEvents();
+        }
+    }
+
+    private async Task LoadEvents()
+    {
+        try
+        {
+            var httpClient = HttpClientFactory.CreateClient("apiClient");
+            var response = await httpClient.GetAsync("api/events");
+
+            if (response.IsSuccessStatusCode)
+            {
+                var content = await response.Content.ReadAsStringAsync();
+                events = JsonSerializer.Deserialize<List<Event>>(content, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            }
+            else
+            {
+                Console.Error.WriteLine($"API call failed with status code {response.StatusCode}");
+                var errorContent = await response.Content.ReadAsStringAsync();
+                Console.Error.WriteLine($"Error content: {errorContent}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.Error.WriteLine($"Error fetching events: {ex.Message}");
+        }
+    }
+
+    public void CreateEvent()
+    {
+        NavigationManager.NavigateTo("/create-event");
+    }
+
+    public void EditEvent(int id)
+    {
+        NavigationManager.NavigateTo($"/edit-event/{id}");
+    }
+
+    public async Task DeleteEvent(int id)
+    {
+        try
+        {
+            var httpClient = HttpClientFactory.CreateClient("apiClient");
+            var response = await httpClient.DeleteAsync($"api/events/{id}");
+            if (response.IsSuccessStatusCode)
+            {
+                await LoadEvents();
+            }
+            else
+            {
+                Console.Error.WriteLine($"Failed to delete event with ID {id}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.Error.WriteLine($"Error deleting event: {ex.Message}");
+        }
+    }
+
+    public async Task SubscribeToEvent(int eventId)
+    {
+        var httpClient = HttpClientFactory.CreateClient("notificationClient");
+
+        var notificationDto = new NotificationDto
+            {
+                EventId = eventId,
+                Email = "testuser@example.com" // Replace with actual user data
+            };
+
+        var content = new StringContent(JsonSerializer.Serialize(notificationDto), Encoding.UTF8, "application/json");
+
+        var response = await httpClient.PostAsync($"api/notification/subscribe", content);
+
+        if (response.IsSuccessStatusCode)
+        {
+            toastMessage = "Subscribed successfully!";
+            await ShowToast();
+        }
+        else
+        {
+            toastMessage = "Failed to subscribe!";
+            await ShowToast();
+        }
+    }
+
+    public async Task UnsubscribeFromEvent(int eventId)
+    {
+        var httpClient = HttpClientFactory.CreateClient("notificationClient");
+
+        var notificationDto = new NotificationDto
+            {
+                EventId = eventId,
+                Email = "testuser@example.com" // Replace with actual user data
+            };
+
+        var content = new StringContent(JsonSerializer.Serialize(notificationDto), Encoding.UTF8, "application/json");
+
+        var response = await httpClient.PostAsync($"api/notification/unsubscribe", content);
+
+        if (response.IsSuccessStatusCode)
+        {
+            toastMessage = "Unsubscribed successfully!";
+            await ShowToast();
+        }
+        else
+        {
+            toastMessage = "Failed to unsubscribe!";
+            await ShowToast();
+        }
+    }
+
+    private async Task ShowToast()
+    {
+        if (toastRef.Context != null)
+        {
+            await JS.InvokeVoidAsync("eval", @"
+                var toastElement = document.querySelector('.toast');
+                if (toastElement) {
+                    var toast = new bootstrap.Toast(toastElement);
+                    toast.show();
+                }
+            ");
+        }
+        else
+        {
+            Console.WriteLine("Toast reference is not assigned!");
+        }
+    }
+}

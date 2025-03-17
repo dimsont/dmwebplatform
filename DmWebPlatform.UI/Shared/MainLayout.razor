@@ -1,0 +1,24 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>DmWebPlatform</PageTitle>
+
+<div class="d-flex flex-column min-vh-100">
+    <!-- Sidebar -->
+    <div class="sidebar bg-dark text-light p-3">
+        <NavMenu />
+    </div>
+
+    <!-- Main Content -->
+    <div class="d-flex flex-column flex-grow-1">
+        <main class="content flex-grow-1 d-flex justify-content-center align-items-center">
+            <div class="container text-center">
+                @Body
+            </div>
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light text-center py-2">
+        <small>&copy; @DateTime.Now.Year - DmWebPlatform</small>
+    </footer>
+</div>

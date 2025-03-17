@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.29.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DmWebPlatform.Domain\DmWebPlatform.Domain.csproj" />
+    <ProjectReference Include="..\DmWebPlatform.Infrastructure\DmWebPlatform.Infrastructure.csproj" />
+    <ProjectReference Include="..\DmWebPlatform.Notifications.Domain\DmWebPlatform.Notifications.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

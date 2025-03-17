@@ -1,0 +1,68 @@
+services:
+  eventservice:
+    build:
+      context: .
+      dockerfile: ./DmWebPlatform.API/Dockerfile
+    ports:
+      - "7135:7135"
+    networks:
+      - app-network
+    environment:
+      - SQL_CONNECTION_STRING=Server=sqlserver,1433;Database=DmWebApp;User=sa;Password=StrongPassword123!;TrustServerCertificate=True;
+      - MONGO_CONNECTION_STRING=mongodb://mongodb:27017
+      - MONGO_DATABASE_NAME=DmWebApp
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - sqlserver
+      - mongodb
+
+  notificationservice:
+    build:
+      context: .
+      dockerfile: ./DmWebPlatform.Notifications.API/Dockerfile
+    ports:
+      - "7206:7206"
+    networks:
+      - app-network
+    environment:
+      - SQL_CONNECTION_STRING=Server=sqlserver,1433;Database=DmWebNotif;User=sa;Password=StrongPassword123!;TrustServerCertificate=True;
+      - MONGO_CONNECTION_STRING=mongodb://mongodb:27017
+    depends_on:
+      - sqlserver
+      - mongodb
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=StrongPassword123!
+      - MSSQL_TCP_PORT=1433
+      - MSSQL_AGENT_ENABLED=true
+      - MSSQL_PID=Developer
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P StrongPassword123! -Q 'SELECT 1'"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    networks:
+      - app-network
+    volumes:
+      - mongo-data:/data/db
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  mongo-data:
